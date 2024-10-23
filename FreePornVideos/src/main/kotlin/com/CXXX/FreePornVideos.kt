@@ -1,4 +1,4 @@
-package com.CXXX
+package com.stream
 
 //import android.util.Log
 import org.jsoup.nodes.Element
@@ -16,7 +16,7 @@ class FreePornVideos : MainAPI() {
     override val vpnStatus            = VPNStatus.MightBeNeeded
 
     override val mainPage = mainPageOf(
-        "latest-updates" to "latest",
+        "latest-updates/" to "latest",
         "networks/brazzers-com" to "Brazzers",
         "networks/mylf-com" to "MYLF",
         "networks/brazzers-com" to "Brazzers",
