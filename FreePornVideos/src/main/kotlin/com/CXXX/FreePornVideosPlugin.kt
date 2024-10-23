@@ -1,4 +1,4 @@
-package com.CXXX
+package com.stream
 
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 import com.lagradost.cloudstream3.plugins.Plugin
