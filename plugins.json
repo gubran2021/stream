@@ -592,6 +592,25 @@
         "name": "SoraStream"
     },
     {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 8760,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SoraStream",
+        "description": "SoraStream",
+        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+    {
         
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xfGH3Q2FVINtuDKrS8FBP8uP2AHbKBxpeQ&s",
         "apiVersion": 1,
