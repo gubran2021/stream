@@ -573,6 +573,25 @@
         "name": "MyCima"
     },
     {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 8760,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MyCima",
+        "description": "MyCima",
+        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/SoraStream.cs3",
+        "name": "MyCima"
+    },
+    {
         
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xfGH3Q2FVINtuDKrS8FBP8uP2AHbKBxpeQ&s",
         "apiVersion": 1,
