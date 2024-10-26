@@ -649,6 +649,25 @@
         "name": "Ultima"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://xtapes.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 11450,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProviders"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 6,
+        "internalName": "Xtapes",
+        "description": "Xtapes",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/Xtapes.cs3",
+        "name": "Xtapes"
+    },
+    {
         
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xfGH3Q2FVINtuDKrS8FBP8uP2AHbKBxpeQ&s",
         "apiVersion": 1,
