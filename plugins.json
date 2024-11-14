@@ -624,10 +624,10 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "9kMovies",
-        "description": "9kMovies",
-        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/9kMovies.cs3",
-        "name": "9kMovies"
+        "internalName": "ArabSeedProvider",
+        "description": "ArabSeedProvider",
+        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/ArabSeedProvider.cs3",
+        "name": "ArabSeedProvider"
     },
     {
         "iconUrl": "",
