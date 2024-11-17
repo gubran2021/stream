@@ -712,19 +712,19 @@
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
         "fileSize": 13531,
         "status": 2,
-        "language": "ar",
+        "language": "en",
         "authors": [
-            "KingSlayer_007"
+            "KingSlayer_008"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "NSFW"
+        
         ],
         "version": 9,
-        "internalName": "CimaNowProvider",
+        "internalName": "XXXProvider",
         "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/CimaNowProvider.cs3",
-        "name": "CimaNowProvider"
+        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/XXXProvider.cs3",
+        "name": "XXXProvider"
     },
     {
         
