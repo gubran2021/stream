@@ -741,9 +741,9 @@
             "NSFW"
         ],
         "version": 2,
-        "internalName": "YesPornPlease",
-        "description": "YesPornPlease",
-        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/YesPornPlease.cs3",
-        "name": "YesPornPlease"
+        "internalName": "manifest",
+        "description": "manifest",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/manifest.json",
+        "name": "manifest"
     }
 ]
