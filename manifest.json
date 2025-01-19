@@ -1,0 +1,112 @@
+{
+  "id": "pw.ers.porntube",
+  "version": "0.4.6",
+  "description": "Premium porn torrents with debrid",
+  "name": "Porn Tube",
+  "logo": "https://dirty-pink.ers.pw/logo-v0-3-0.png",
+  "behaviorHints": {
+    "adult": true,
+    "configurable": true,
+    "configurationRequired": true
+  },
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "tpdb_catalog",
+      "name": "PornTube New",
+      "extra": [
+        {
+          "name": "skip"
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        },
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Mature",
+            "Teen",
+            "MILF",
+            "African American",
+            "Anal",
+            "Lesbian",
+            "Threesome",
+            "Amateur",
+            "Asian",
+            "Babes",
+            "Babysitter",
+            "BBW",
+            "BTS",
+            "Big Ass",
+            "Big Dick",
+            "Big Boobs",
+            "Bisexual",
+            "Blonde",
+            "Blowjob",
+            "Bondage",
+            "Brunette",
+            "Bukkake",
+            "Casting",
+            "College",
+            "Cosplay",
+            "Creampie",
+            "Cuckold",
+            "Cumshot",
+            "Double Penetration",
+            "European",
+            "Exclusive Scenes",
+            "Feet",
+            "Orgasm",
+            "Fetish",
+            "Fingering",
+            "Fisting",
+            "Gangbang",
+            "Handjob",
+            "Hardcore",
+            "Interracial",
+            "Latina",
+            "Massage",
+            "Masturbation",
+            "Muscular Man",
+            "Orgy",
+            "Parody",
+            "Party",
+            "Peeing Scene",
+            "Pornstar",
+            "POV",
+            "Public",
+            "Cunnilingus",
+            "Reality",
+            "Redhead",
+            "Roleplay",
+            "Romantic",
+            "Rough Sex",
+            "School",
+            "Small Boobs",
+            "Smoking",
+            "Solo",
+            "Squirting",
+            "Step",
+            "Tattoos",
+            "Toys",
+            "Trans"
+          ]
+        }
+      ]
+    }
+  ],
+  "idPrefixes": [
+    "pt",
+    "porndb"
+  ]
+}
