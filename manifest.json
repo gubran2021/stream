@@ -1,112 +1,51 @@
 {
-  "id": "pw.ers.porntube",
-  "version": "0.4.6",
-  "description": "Premium porn torrents with debrid",
-  "name": "Porn Tube",
-  "logo": "https://dirty-pink.ers.pw/logo-v0-3-0.png",
-  "behaviorHints": {
-    "adult": true,
-    "configurable": true,
-    "configurationRequired": true
-  },
-  "resources": [
-    "catalog",
-    "meta",
-    "stream"
-  ],
-  "types": [
-    "movie"
-  ],
-  "catalogs": [
-    {
-      "type": "movie",
-      "id": "tpdb_catalog",
-      "name": "",
-      "extra": [
-        {
-          "name": "skip"
-        },
-        {
-          "name": "search",
-          "isRequired": false
-        },
-        {
-          "name": "genre",
-          "isRequired": false,
-          "options": [
-            "Mature",
-            "Teen",
-            "MILF",
-            "African American",
-            "Anal",
-            "Lesbian",
-            "Threesome",
-            "Amateur",
-            "Asian",
-            "Babes",
-            "Babysitter",
-            "BBW",
-            "BTS",
-            "Big Ass",
-            "Big Dick",
-            "Big Boobs",
-            "Bisexual",
-            "Blonde",
-            "Blowjob",
-            "Bondage",
-            "Brunette",
-            "Bukkake",
-            "Casting",
-            "College",
-            "Cosplay",
-            "Creampie",
-            "Cuckold",
-            "Cumshot",
-            "Double Penetration",
-            "European",
-            "Exclusive Scenes",
-            "Feet",
-            "Orgasm",
-            "Fetish",
-            "Fingering",
-            "Fisting",
-            "Gangbang",
-            "Handjob",
-            "Hardcore",
-            "Interracial",
-            "Latina",
-            "Massage",
-            "Masturbation",
-            "Muscular Man",
-            "Orgy",
-            "Parody",
-            "Party",
-            "Peeing Scene",
-            "Pornstar",
-            "POV",
-            "Public",
-            "Cunnilingus",
-            "Reality",
-            "Redhead",
-            "Roleplay",
-            "Romantic",
-            "Rough Sex",
-            "School",
-            "Small Boobs",
-            "Smoking",
-            "Solo",
-            "Squirting",
-            "Step",
-            "Tattoos",
-            "Toys",
-            "Trans"
-          ]
-        }
-      ]
-    }
-  ],
-  "idPrefixes": [
-    "pt",
-    "porndb"
-  ]
+"data": 
+{
+"uuid": 
+"6dd2bb96-8388-479a-93f0-bb3b22eac1d9",
+"id": 
+94,
+"parent_id": 
+92,
+"network_id": 
+1298,
+"name": 
+"Brazzers Exxtra",
+"short_name": 
+"brazzersexxtra",
+"url": 
+"https://brazzers.com",
+"description": 
+"Brazzers Exxtra is a part of the Mind Geek network.",
+"rating": 
+5,
+"logo": 
+"https://cdn.theporndb.net/sites/cb/64/8b/5b2bfd986c7207001397df9edb81988/logo/brazzersexxtra-logo.png",
+"favicon": 
+"https://cdn.theporndb.net/sites/ff/a5/00/8bf5e5b7121a27ad7d313c191ded9e8/favicon/brazzersexxtra-logo.png",
+"poster": 
+"https://cdn.theporndb.net/sites/af/82/ea/03cb57c24491a5c051b5bbb94420e89/poster/poster.jpg",
+"network": 
+{
+"uuid": 
+"e5a29706-8184-4f33-aa80-263aa9db941b",
+"id": 
+1298,
+"name": 
+"Mind Geek",
+"short_name": 
+"mindgeek"
+},
+"parent": 
+{
+"uuid": 
+"e3b61b3e-0c20-4bea-9441-b88430ed6317",
+"id": 
+92,
+"name": 
+"Brazzers",
+"short_name": 
+"brazzers"
+}
+}
 }
