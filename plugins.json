@@ -717,7 +717,7 @@
             "megix"
         ],
         "tvTypes": [
-            "NSFW"
+            "Movie"
         
         ],
         "version": 9,
@@ -738,12 +738,12 @@
             "megix"
         ],
         "tvTypes": [
-            "NSFW"
+            "Movie"
         ],
         "version": 2,
-        "internalName": "manifest",
-        "description": "manifest",
-        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/manifest.cs3",
-        "name": "manifest"
+        "internalName": "NetflixMirrorProvider",
+        "description": "NetflixMirrorProvider",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/NetflixMirrorProvider.cs3",
+        "name": "NetflixMirrorProvider"
     }
 ]
