@@ -724,7 +724,26 @@
         "internalName": "CimaNow",
         "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
         "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/CimaNowProvider.cs3",
-        "name": "CimaNow"
+        "name": "CimaNow"      
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tube.perverzija.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 15256,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "coxju, megix"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Perverzija1111",
+        "description": "Contains all the videos from Perverzija",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/Perverzija1111.cs3",
+        "name": "Perverzija1111"
     },
     {
         
