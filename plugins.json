@@ -741,10 +741,10 @@
             "Movie"
         ],
         "version": 3,
-        "internalName": "Moflix",
+        "internalName": "StreamPlay",
         "description": "Include: Cineclix",
-        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/Moflix.cs3",
-        "name": "Moflix"
+        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
     },
     { 
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xfGH3Q2FVINtuDKrS8FBP8uP2AHbKBxpeQ&s",
