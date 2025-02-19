@@ -724,7 +724,27 @@
         "internalName": "CimaNow",
         "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
         "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/CimaNowProvider.cs3",
-        "name": "CimaNow"      
+        "name": "CimaNow"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=moflix-stream.xyz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream/raw/refs/heads",
+        "fileSize": 36904,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Moflix",
+        "description": "Include: Cineclix",
+        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/Moflix.cs3",
+        "name": "Moflix"
     },
     { 
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xfGH3Q2FVINtuDKrS8FBP8uP2AHbKBxpeQ&s",
