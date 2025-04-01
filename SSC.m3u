@@ -46,3 +46,37 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/adsportasia1.png", PREMIUM 1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/adsportasia2.png",SPORTS PREMIUM 2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/starzplaysport.png",SPORTS STC TV FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/starzplaysport.png",STARZPLAY SPORTS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/adsportasia2.png", SPORTS ASIA 2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/657113
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/alkass1.png", ALKASS 1 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/alkass2.png", ALKASS 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/alkass3.png", ALKASS 3 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/alkass4.png", ALKASS 4 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/alkass5.png", ALKASS 5 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+#EXTINF:-1 group-title="SSC SPORT HD" tvg-logo="https://img.logo-cdn.cc/alkass6.png", ALKASS 6 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
