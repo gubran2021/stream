@@ -604,4 +604,5 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPla
 
 #EXTINF:-1 group-title="قريبا" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", قريبا
 #EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=
+#EXTVLCOPT:http-drm-license=c9cf1779757abfd8e720760281f3682d:dc32f1eac4848a679c0c038f5be08d47 
+https://fastly-live.cdn.intigral-ott.net/MBH/MB4H.isml/manifest.mpd
