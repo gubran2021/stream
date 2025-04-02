@@ -69,17 +69,17 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/657113
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass1.png", ALKASS 1 HD
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass2.png", ALKASS 2 HD
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass3.png", ALKASS 3 HD
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass4.png", ALKASS 4 HD
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass5.png", ALKASS 5 HD
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass6.png", ALKASS 6 HD
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/711515
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
 
 
 #EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 4k
@@ -159,6 +159,12 @@ https://fastly-live.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
 https://fastly-live.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd
+
+#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a  
+https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
+
 #EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC DRAMA
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=91fd848bc682f2ab5420a2ac015babda:e43f533738247b56fefebcee90376cd3  
@@ -167,14 +173,14 @@ https://fastly-live.cdn.intigral-ott.net/MBDH/MBDH.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=d047b20a11fff140d4691ad839f997da:522f1af7009bc125fe0e40e143532052 
 https://fastly-live.cdn.intigral-ott.net/MBP/MBP.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC VARITY
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC VARITY
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c
 https://fastly-live.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd
 #EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC MASR
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9 
-https://fastly-live.cdn.intigral-ott.net/MBMS_TMP/MBMS_TMP.isml/manifest.mpd
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC MASR 2
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
@@ -183,23 +189,23 @@ https://fastly-live.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=c9cf1779757abfd8e720760281f3682d:dc32f1eac4848a679c0c038f5be08d47 
 https://fastly-live.cdn.intigral-ott.net/MB4H/MB4H.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC 2
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC 2
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
 https://fastly-live.cdn.intigral-ott.net/MB2H/MB2H.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC ACTION
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC ACTION
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1
 https://fastly-live.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC MAX
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC MAX
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212
 https://fastly-live.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STAR ACTION
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STAR ACTION
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
 https://fastly-live.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STAR MOVIES
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STAR MOVIES
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
 https://fastly-live.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
@@ -327,7 +333,7 @@ https://fastly-live.cdn.intigral-ott.net/LBC/LBC.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=5c83f25f98a0fdfccb2823ca2a95bcd6:aa0fe96e3028f7aa4fb7ac182b38157b 
 https://fastly-live.cdn.intigral-ott.net/LAN/LAN.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", DUBAI ONE
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", DUBAI ONE
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=ab96aca699762f6402588eafe321a975:345f243b66226e22c7637b0050930b18
 https://fastly-live.cdn.intigral-ott.net/DBO/DBO.isml/manifest.mpd
@@ -363,7 +369,7 @@ https://fastly-live.cdn.intigral-ott.net/JTV/JTV.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=4b0c269315b4eff479ec1cfa683d7199:a13990be602b4b4210d9e278b2683a3c
 https://fastly-live.cdn.intigral-ott.net/AMT/AMT.isml/manifest.mpd 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STAR WORLD
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STAR WORLD
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://fastly-live.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
@@ -528,6 +534,14 @@ https://uselector.cdn.intigral-ott.net/TLC/TLC.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
 https://uselector.cdn.intigral-ott.net/HGTV/HGTV.isml/manifest.mpd
 
+#EXTINF:-1 group-title="الوثائقية" tvg-id="HGTV HD"tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi",LOVE NATURE
+#EXTGRP: documentary
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
 
 
 
@@ -557,3 +571,25 @@ http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036840.m3u8
 
 #EXTINF:-1 group-title="4K" tvg-logo="https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg",  4K 1
 http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/484472.m3u8
+
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://d29u1ihjhteljl.cloudfront.net/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Finventoryms-prod%2Fimages%2Finventory_image_rycgwowxax_04-10-2023_at_07-24_AM.jpeg&w=750&q=75", STARZPLAY MOVIES
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bf316ae13c04ff60cc7a51c636a98334:ef04e87f8ea363fe2bd3368603a423b4 
+https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Crime/DASH/StarzPlay_Crime.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://d29u1ihjhteljl.cloudfront.net/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Finventoryms-prod%2Fimages%2Finventory_image_rycgwowxax_04-10-2023_at_07-24_AM.jpeg&w=750&q=75", STARZPLAY ACTION
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=295981eefbf1bf38fe361ee6c969dacf:c16c1c18d96a2932e6fff8f685cbf8d8
+https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Action/DASH/StarzPlay_Action.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://d29u1ihjhteljl.cloudfront.net/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Finventoryms-prod%2Fimages%2Finventory_image_rycgwowxax_04-10-2023_at_07-24_AM.jpeg&w=750&q=75", STARZPLAY COMEDY
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=b527f6115e7a3a6c8eed0cf215fb6c89:21737a3769189c6dca4169382884c8b4 
+https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Comedy/DASH/StarzPlay_Comedy.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://d29u1ihjhteljl.cloudfront.net/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Finventoryms-prod%2Fimages%2Finventory_image_rycgwowxax_04-10-2023_at_07-24_AM.jpeg&w=750&q=75", STARZPLAY SERIES
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1 
+https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd
