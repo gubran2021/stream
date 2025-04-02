@@ -397,43 +397,49 @@ https://fastly-live.cdn.intigral-ott.net/ZEA/ZEA.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=f446c01f7438ae78bdc808aeec15881e:5786d43cd7b2d29d914ba30b220c190e
 https://fastly-live.cdn.intigral-ott.net/ZEL/ZEL.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney channel
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney channel
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195 
 https://fastly-live.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney jr
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png", Cartoon Network Arabic 
 #EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
-https://fastly-live.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney jr
+#EXTVLCOPT:http-drm-license=ece7bbc683eb35d1e6b3e32cccbd8fb0:f72bd6ea26e243524d58993b58122313
+https://uselector.cdn.intigral-ott.net/CNA/CNA.isml/manifest.mpd
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney jr
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0 
-https://fastly-live.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CARTOONITO
+https://uselector.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png", Cartoon Network
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=8442ea8da91e1d0f392515adc680a4f5:4e9b90ac2c26cb08cd34005e08ecf05c
+https://uselector.cdn.intigral-ott.net/TCN/TCN.isml/manifest.mpd 
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CARTOONITO
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2802f3f0e4538e4e6b9085c179c15dce:5afbd95bb853cc2c104e3b960d51defe
 https://fastly-live.cdn.intigral-ott.net/BOM/BOM.isml/manifest.mpd 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ROTANA KIDS
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ROTANA KIDS
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2abdaccade913849b5d49f66a0dc5ec0:66a14430097ac3a49564cefd4a18047d
 https://fastly-live.cdn.intigral-ott.net/ROTI/ROTI.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC 3
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC 3
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=ed5ca9f7aafa02e7ba138eff7c021c8f:f27dae60067ad34b5a921af79a041372
 https://fastly-live.cdn.intigral-ott.net/MB3/MB3.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MAJD TV
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MAJD TV
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=64d581b1c69f62ded3d3085245ee74d9:ff66c471d1fb0e2c3140ee8a62814d8b
 https://fastly-live.cdn.intigral-ott.net/MAJ/MAJ.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SPACE TOON
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SPACE TOON
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2d61037244f336e8b8daf832ffc84003:999b547e5fdd56948315382730852045
 https://fastly-live.cdn.intigral-ott.net/SPT/SPT.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", KIDS ZOON MAX
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", KIDS ZOON MAX
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=3d7cdc5ccfaa627204226bd2e3311863:1cf22d977dbf845ad0cbc6f1145b081e
 https://fastly-live.cdn.intigral-ott.net/KDM/KDM.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SMART ZONE
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SMART ZONE
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=52ec939fdeebacad41e459570e435e53:dd664470cd64d4e7a1130f9d85383e83
 https://fastly-live.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd 
