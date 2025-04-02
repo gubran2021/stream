@@ -437,7 +437,7 @@ https://fastly-live.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="Documentary" tvg-id="National Geographic Channel HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a0/National_Geographic_%282016-.n.v.%29.png/revision/latest?cb=20180207164313",National Geographic Channel HD
+#EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic Channel HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a0/National_Geographic_%282016-.n.v.%29.png/revision/latest?cb=20180207164313",National Geographic Channel HD
 #EXTGRP: documentary
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
