@@ -373,15 +373,15 @@ https://fastly-live.cdn.intigral-ott.net/AMT/AMT.isml/manifest.mpd
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://fastly-live.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CBC SOFRA
+#EXTINF:-1 group-title="طبخ" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CBC SOFRA
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=335b0869905fe50f5078bb2258bbf379:bfb9d58ab091637e5f159207132bfc10
 https://fastly-live.cdn.intigral-ott.net/CBS/CBS.isml/manifest.mpd
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", FATAFEAT
+#EXTINF:-1 group-title="طبخ" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", FATAFEAT
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
 https://fastly-live.cdn.intigral-ott.net/FAT/FAT.isml/manifest.mpd
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ADF
+#EXTINF:-1 group-title="طبخ" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ADF
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=80dde71510c8e2b92f073c794b1fcc4c:3efe719fbbfd197ef9b77638719d4ab7 
 https://fastly-live.cdn.intigral-ott.net/DAF/DAF.isml/manifest.mpd
