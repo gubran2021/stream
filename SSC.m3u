@@ -691,19 +691,19 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPla
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_8.m3u8
 
 
-#EXTINF:-1 group-title="أخبار" tvg-id="Alhadath" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc2.webp",Alhadath
+#EXTINF:-1 group-title="" tvg-id="Alhadath" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc2.webp",Alhadath
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_8.m3u8
 
 
-#EXTINF:-1 group-title="أخبار" tvg-id="Aljazira" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc2.webp",Aljazira
+#EXTINF:-1 group-title="" tvg-id="Aljazira" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc2.webp",Aljazira
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 
 
-#EXTINF:-1 group-title="أخبار" tvg-id="Sky news" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc2.webp",Sky news
+#EXTINF:-1 group-title="" tvg-id="Sky news" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc2.webp",Sky news
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://stream.skynewsarabia.com/hls/sna.m3u8
