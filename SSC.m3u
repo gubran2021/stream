@@ -133,25 +133,25 @@ https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-1
 
 
 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://1.bp.blogspot.com/-vh8Qvc4Zm9c/XZTKstHn4-I/AAAAAAAACg8/Tf-r6UNOI9kBnE4nVaPlUzPOm3CBtj81QCLcBGAsYHQ/s1600/11.png", DUBAI SPORTS 1
+#EXTINF:-1 group-title="عربية" tvg-logo="https://1.bp.blogspot.com/-vh8Qvc4Zm9c/XZTKstHn4-I/AAAAAAAACg8/Tf-r6UNOI9kBnE4nVaPlUzPOm3CBtj81QCLcBGAsYHQ/s1600/11.png", DUBAI SPORTS 1
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=507e961ed13ca34c449ba45d6070b06e:c79fa598a6b4ccd40d4b264e16de6134
 https://fastly-live.cdn.intigral-ott.net/DBSH/DBSH.isml/manifest.mpd
 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/65159df2a1.png", DUBAI SPORTS 2
+#EXTINF:-1 group-title="عربية" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/65159df2a1.png", DUBAI SPORTS 2
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=b56ae1a253e92a7efe223858f1b909a5:6f3a9f6cf736fc3cd1727b4b626c943a
 https://fastly-live.cdn.intigral-ott.net/DBS2/DBS2.isml/manifest.mpd
 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://www.gdnonline.com/gdnimages/20220201/20220201022222%D9%8A%D9%88%D9%85%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-8f898a6c-e19b-4b07-ac73-61f3f4c9f186.jpeg?20240719%27", BAHRIEN SPORTS
+#EXTINF:-1 group-title="عربية" tvg-logo="https://www.gdnonline.com/gdnimages/20220201/20220201022222%D9%8A%D9%88%D9%85%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-8f898a6c-e19b-4b07-ac73-61f3f4c9f186.jpeg?20240719%27", BAHRIEN SPORTS
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=4715ff70915cd2a490da7e63251072c2:1c349d100a1abaacd76fe62d628fd7ab
 https://fastly-live.cdn.intigral-ott.net/BST/BST.isml/manifest.mpd
 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
+#EXTINF:-1 group-title="عربية" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
+#EXTINF:-1 group-title="عربية" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
 https://fastly-live.cdn.intigral-ott.net/SHS/SHS.isml/manifest.mpd
@@ -282,12 +282,12 @@ https://fastly-live.cdn.intigral-ott.net/ROTZ/ROTZ.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=f9c253bf54bbdf0a6d1c648f8c2f3612:5bf4a3ebcffc6115abf82312707f28ae 
 https://fastly-live.cdn.intigral-ott.net/ROTCU/ROTCU.isml/manifest.mpd
 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", bedaya
+#EXTINF:-1 group-title="عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", bedaya
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=5538be626e317ebae98df64d42bd3c16:348d5dc475576d0089d44682822cef2c 
 https://fastly-live.cdn.intigral-ott.net/ABD/ABD.isml/manifest.mpd
 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Riyad SEASON
+#EXTINF:-1 group-title="عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Riyad SEASON
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=36ea18d2e268dce77226e2279bebb0c4:49f33f93ced150165f9e75eb467972d9
 https://fastly-live.cdn.intigral-ott.net/RYS/RYS.isml/manifest.mpd
@@ -337,7 +337,7 @@ https://fastly-live.cdn.intigral-ott.net/ADO/ADO.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=93e6d7023b51dee949dfca57bcadf8e4:634c0e0f8412e165f94b79fefbd47371 
 https://fastly-live.cdn.intigral-ott.net/ADE/ADE.isml/manifest.mpd
 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALAAN
+#EXTINF:-1 group-title="عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALAAN
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=cab6808c29d7c44b013a7bc83db9ec94:6df97c03d57e32c7150a550ca499f1e2
 https://fastly-live.cdn.intigral-ott.net/AAT/AAT.isml/manifest.mpd
@@ -467,7 +467,7 @@ https://fastly-live.cdn.intigral-ott.net/ZEA/ZEA.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=f446c01f7438ae78bdc808aeec15881e:5786d43cd7b2d29d914ba30b220c190e
 https://fastly-live.cdn.intigral-ott.net/ZEL/ZEL.isml/manifest.mpd
 
-#EXTINF:-1 group-title="منوعات عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney channel
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney channel
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195 
 https://fastly-live.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
