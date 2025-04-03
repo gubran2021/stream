@@ -683,11 +683,3 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Comedy/DASH/StarzPla
 #EXTVLCOPT:http-drm-license=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1 
 https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd
 
-
-
-#EXTINF:-1 group-title="الأخبار" tvg-id="SSC 2" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc2.webp",Alhadath
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_8.m3u8
-
-
