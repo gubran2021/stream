@@ -412,7 +412,7 @@ https://fastly-live.cdn.intigral-ott.net/WMT/WMT.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=be20db73c8ec461007f1d2ea9bd94110:7a2fa6ebc8469ff8823297bceca60ec3
 https://fastly-live.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALWESTA
+#EXTINF:-1 group-title="دراما"tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALWESTA
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=1ac58c80fc6ed4ce1998bd597ab921ed:49ae475addfd7c7ff897222a88a8ff68 
 https://fastly-live.cdn.intigral-ott.net/WMT/WMT.isml/manifest.mpd
