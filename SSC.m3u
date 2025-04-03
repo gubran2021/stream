@@ -492,7 +492,7 @@ https://fastly-live.cdn.intigral-ott.net/BOM/BOM.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=2abdaccade913849b5d49f66a0dc5ec0:66a14430097ac3a49564cefd4a18047d
 https://fastly-live.cdn.intigral-ott.net/ROTI/ROTI.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتونة" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC 3
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MBC 3
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=ed5ca9f7aafa02e7ba138eff7c021c8f:f27dae60067ad34b5a921af79a041372
 https://fastly-live.cdn.intigral-ott.net/MB3/MB3.isml/manifest.mpd
