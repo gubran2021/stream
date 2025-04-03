@@ -707,3 +707,10 @@ https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://stream.skynewsarabia.com/hls/sna.m3u8
+
+
+
+#EXTINF:-1 group-title="قريبا" tvg-id="قريبا" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc2.webp",قريبا
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c55a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://stream.skynewsarabia.com/sna.m3u8
