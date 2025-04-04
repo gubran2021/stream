@@ -525,7 +525,6 @@ https://fastly-live.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
 
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic Channel HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a0/National_Geographic_%282016-.n.v.%29.png/revision/latest?cb=20180207164313",National Geographic Channel HD
-#EXTGRP: documentary
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -534,7 +533,6 @@ https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
 
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic WILD HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8b/National_Geographic_Wild_%282019-.n.v.%29.png/revision/latest?cb=20190206181820",National Geographic WILD HD
-#EXTGRP: documentary
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -543,7 +541,6 @@ https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
 
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Nat Geo Abu Dhabi HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a0/National_Geographic_%282016-.n.v.%29.png/revision/latest?cb=20180207164313",Nat Geo Abu Dhabi HD
-#EXTGRP: documentary
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -551,7 +548,6 @@ https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
 https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Animal Planet HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9f/Animal_Planet_%282018-.n.v.%29.png/revision/latest?cb=20181029073336",Animal Planet HD
-#EXTGRP: documentary
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -559,7 +555,6 @@ https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
 https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Discovery Channel HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c2/Discovery_%282019-.n.v.%29.png/revision/latest?cb=20190507055739",Discovery Channel HD
-#EXTGRP: documentary
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -567,7 +562,6 @@ https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
 https://uselector.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Discovery Family Channel HD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTeQHC-eOC6kWeDb0kwuiXIKgVx-4IZCnsUFGys7iMHO3LA2slEtnz05kG9hFomzNUKovBoxyBMxoN2YEUYJhKo1vERWZKGKe5biC4kFd21nk92pGm2IkYBYOYa9ObCYg5ecITHd5qfVPE/s1600/Discovery+Family.png",Discovery Family Channel HD
-#EXTGRP: documentary
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
