@@ -472,10 +472,10 @@ https://fastly-live.cdn.intigral-ott.net/ZEL/ZEL.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195 
 https://fastly-live.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney jr
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Cartoon Network
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
-https://fastly-live.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd
+https://uselector.cdn.intigral-ott.net/TCN/TCN.isml/manifest.mpd
 
 #EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney jr
 #EXTVLCOPT:http-drm-scheme=clearkey
