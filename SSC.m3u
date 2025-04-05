@@ -523,7 +523,7 @@ https://fastly-live.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="الوثائقية" tvg-id="Al jazeera Documentary HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a0/National_Geographic_%282016-.n.v.%29.png/revision/latest?cb=20180207164313",National Geographic Channel HD
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Al jazeera Documentary HD"tvg-logo="https://ia902907.us.archive.org/8/items/aljazeeradocumentary1/al-jazeera-documentary%20%281%29.jpg/revision/latest?cb=20180207164313",National Geographic Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
