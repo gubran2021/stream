@@ -224,15 +224,20 @@ https://fastly-live.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212
 https://fastly-live.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
 
-#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STAR ACTION
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1330_1.png", STAR ACTION
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
 https://fastly-live.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
 
-#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STAR MOVIES
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1212_1.png", STAR MOVIES
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
 https://fastly-live.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1228_1.png", STAR Series
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1
+https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd
 
 #EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", TCM
 #EXTVLCOPT:http-drm-scheme=clearkey
@@ -467,7 +472,7 @@ https://fastly-live.cdn.intigral-ott.net/JTV/JTV.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=4b0c269315b4eff479ec1cfa683d7199:a13990be602b4b4210d9e278b2683a3c
 https://fastly-live.cdn.intigral-ott.net/AMT/AMT.isml/manifest.mpd
 
-#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STAR WORLD
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1329_1.png", STAR WORLD
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://fastly-live.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
