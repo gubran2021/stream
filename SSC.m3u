@@ -239,6 +239,39 @@ https://fastly-live.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270
 https://fastly-live.cdn.intigral-ott.net/TCM/TCM.isml/manifest.mpd
 
+
+
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://media0075.elcinema.com/tvguide/1182_1.png", ART Hekayat 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=4ccb01903d6868e27953ff0298d4ac05:d156518d6ab453d9f9d12c243280be8f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd
+
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://media0075.elcinema.com/tvguide/1122_1.png", ART Hekayat
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=3d614bb04140eda383d117fb55e9a361:b669cdf2cb65eff56d1e3534c7a54b53
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1195_1.png", ART Cinema
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670 
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1121_1.png", ART Aflam 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=809a386e57689d56c01a5c3190889641:d54639bb7d418d515e5198663a6d7ae5
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1120_1.png", ART Aflam 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db 
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd
+
+
 #EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ROTANA KHALAJA
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50 
@@ -528,7 +561,7 @@ https://fastly-live.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
-http://95.216.180.111:1935/live/111/chunklist.m3u8
+https://live-hls-web-ajd-fa.thehlive.com/AJD/02.m3u8
 
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic Channel HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a0/National_Geographic_%282016-.n.v.%29.png/revision/latest?cb=20180207164313",National Geographic Channel HD
