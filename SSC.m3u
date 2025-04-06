@@ -96,42 +96,47 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=Q2a-HDiu8G_4Bn10nWTr6g:1743551501
-http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9YKG6Dmk6L9RyIBGYKLZ4g:1743552776
-http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
+http://45.139.122.148:8000/play/a005
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9YKG6Dmk6L9RyIBGYKLZ4g:1743552776
-http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
+http://45.139.122.148:8000/play/a006
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d58IvaVmCJNK0W6Sc1Z_TQ:1743553033
-http://bdd78.4rouwanda-shop.store/live/9787488847/index.m3u8
+http://45.139.122.148:8000/play/a007
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=AMM0TuegLPNCmtmEjR_QVw:1743552953
-http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+http://45.139.122.148:8000/play/a008
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-12)/manifest.mpd?hdnts=st=1740297716~exp=1740312116~acl=/Content/*~id=203228fb-6697-439f-bdc1-7b0e91b6def8~data=437273c7-4d82-4323-b836-c9d4c4ab9784~hmac=e61297df6c0178108055ab5a322d7172869b4c8beb8e63803646a3498c562357&hdcore=2.11.3
+http://45.139.122.148:8000/play/a009
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-13)/manifest.mpd?hdnts=st=1740297716~exp=1740312116~acl=/Content/*~id=203228fb-6697-439f-bdc1-7b0e91b6def8~data=437273c7-4d82-4323-b836-c9d4c4ab9784~hmac=e61297df6c0178108055ab5a322d7172869b4c8beb8e63803646a3498c562357&hdcore=2.11.3
+http://45.139.122.148:8000/play/a00a
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
+http://45.139.122.148:8000/play/a00b
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 9 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(spo-hd-14)/manifest.mpd?hdnts=st=1740297716~exp=1740312116~acl=/Content/*~id=203228fb-6697-439f-bdc1-7b0e91b6def8~data=437273c7-4d82-4323-b836-c9d4c4ab9784~hmac=e61297df6c0178108055ab5a322d7172869b4c8beb8e63803646a3498c562357&hdcore=2.11.3
+http://45.139.122.148:8000/play/a00c
 
 
 
