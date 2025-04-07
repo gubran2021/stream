@@ -219,7 +219,7 @@ https://fastly-live.cdn.intigral-ott.net/MB4H/MB4H.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
 https://fastly-live.cdn.intigral-ott.net/MB2H/MB2H.isml/manifest.mpd
 
-#EXTINF:-1 group-title="أفلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MBC_Action_TV_Channel_Logo.png", MBC ACTION
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://www.almowaten.net/wp-content/uploads/2020/10/8de24a155e2152c225375f0b4dc51ca5.jpg", MBC ACTION
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1
 https://fastly-live.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd
@@ -512,7 +512,7 @@ https://fastly-live.cdn.intigral-ott.net/ZEA/ZEA.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=f446c01f7438ae78bdc808aeec15881e:5786d43cd7b2d29d914ba30b220c190e
 https://fastly-live.cdn.intigral-ott.net/ZEL/ZEL.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://www.pngfind.com/pngs/m/686-6868073_disney-channel-wiki-disney-channel-logo-png-transparent.png", Disney channel
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://d23.com/app/uploads/2020/11/1180w-600h-111020_christmas-again-dcom-iris-380x260-1605029644.jpg", Disney channel
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195 
 https://fastly-live.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
