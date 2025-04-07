@@ -497,7 +497,7 @@ https://fastly-live.cdn.intigral-ott.net/FAT/FAT.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=80dde71510c8e2b92f073c794b1fcc4c:3efe719fbbfd197ef9b77638719d4ab7 
 https://fastly-live.cdn.intigral-ott.net/DAF/DAF.isml/manifest.mpd
 
-#EXTINF:-1 group-title="أفلام" tvg-logo="https://ih1.redbubble.net/image.2824588891.1822/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg", MBC BOLLYWOOD
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_Bollywood_TV_Channel_Logo.png/1599px-MBC_Bollywood_TV_Channel_Logo.png", MBC BOLLYWOOD
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=ac459e2ccc351aaee3fc0802084cf5c3:794bfe4df0f487bd4e2789ddb464f82c
 https://fastly-live.cdn.intigral-ott.net/MBB/MBB.isml/manifest.mpd
@@ -512,7 +512,7 @@ https://fastly-live.cdn.intigral-ott.net/ZEA/ZEA.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=f446c01f7438ae78bdc808aeec15881e:5786d43cd7b2d29d914ba30b220c190e
 https://fastly-live.cdn.intigral-ott.net/ZEL/ZEL.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://d23.com/app/uploads/2020/11/1180w-600h-111020_christmas-again-dcom-iris-380x260-1605029644.jpg", Disney channel
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c0/Disney_Channel_2022.svg/revision/latest/thumbnail/width/360/height/360?cb=20230323022607", Disney channel
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195 
 https://fastly-live.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
