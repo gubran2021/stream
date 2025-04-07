@@ -209,7 +209,7 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 #EXTVLCOPT:http-drm-license=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
 https://fastly-live.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/08/mbc-4.svg", MBC 4
+#EXTINF:-1 group-title="دراما" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MBC4_Logo.png/revision/latest/scale-to-width-down/250?cb=20211229225709", MBC 4
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=c9cf1779757abfd8e720760281f3682d:dc32f1eac4848a679c0c038f5be08d47 
 https://fastly-live.cdn.intigral-ott.net/MB4H/MB4H.isml/manifest.mpd
