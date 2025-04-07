@@ -179,7 +179,7 @@ https://fastly-live.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
 https://fastly-live.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MBC_1_Logo.svg/1200px-MBC_1_Logo.svg.png", MBC 1
+#EXTINF:-1 group-title="دراما" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/81/Mbc1logo.png/revision/latest?cb=20240120211822.png", MBC 1
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a  
 https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
@@ -209,7 +209,7 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 #EXTVLCOPT:http-drm-license=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
 https://fastly-live.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://e7.pngegg.com/pngimages/444/738/png-clipart-television-show-news-mbc-4-logo-product-design-mbc-3-angle-white.png", MBC 4
+#EXTINF:-1 group-title="دراما" tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/08/mbc-4.svg", MBC 4
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=c9cf1779757abfd8e720760281f3682d:dc32f1eac4848a679c0c038f5be08d47 
 https://fastly-live.cdn.intigral-ott.net/MB4H/MB4H.isml/manifest.mpd
