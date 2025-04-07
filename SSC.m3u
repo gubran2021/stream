@@ -512,22 +512,27 @@ https://fastly-live.cdn.intigral-ott.net/ZEA/ZEA.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=f446c01f7438ae78bdc808aeec15881e:5786d43cd7b2d29d914ba30b220c190e
 https://fastly-live.cdn.intigral-ott.net/ZEL/ZEL.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney channel
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://www.pngfind.com/pngs/m/686-6868073_disney-channel-wiki-disney-channel-logo-png-transparent.png", Disney channel
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195 
 https://fastly-live.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Cartoon Network
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/330px-Cartoon_Network_Arabic_logo.png", Cartoon Network Arabic
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=ece7bbc683eb35d1e6b3e32cccbd8fb0:f72bd6ea26e243524d58993b58122313
+https://uselector.cdn.intigral-ott.net/CNA/CNA.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=8442ea8da91e1d0f392515adc680a4f5:4e9b90ac2c26cb08cd34005e08ecf05c
 https://uselector.cdn.intigral-ott.net/TCN/TCN.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Disney jr
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/Disney-Junior-Logo.png", Disney jr
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0 
 https://fastly-live.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CARTOONITO
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/500px-Cartoonito_-_Logo_2021.svg.png", CARTOONITO
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2802f3f0e4538e4e6b9085c179c15dce:5afbd95bb853cc2c104e3b960d51defe
 https://fastly-live.cdn.intigral-ott.net/BOM/BOM.isml/manifest.mpd
@@ -542,22 +547,22 @@ https://fastly-live.cdn.intigral-ott.net/ROTI/ROTI.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=ed5ca9f7aafa02e7ba138eff7c021c8f:f27dae60067ad34b5a921af79a041372
 https://fastly-live.cdn.intigral-ott.net/MB3/MB3.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MAJD TV
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQxCCNq5TC5unkTmXx7NnGU1vSO_IWjYjgQ&s", MAJD TV
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=64d581b1c69f62ded3d3085245ee74d9:ff66c471d1fb0e2c3140ee8a62814d8b
 https://fastly-live.cdn.intigral-ott.net/MAJ/MAJ.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SPACE TOON
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png", SPACE TOON
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2d61037244f336e8b8daf832ffc84003:999b547e5fdd56948315382730852045
 https://fastly-live.cdn.intigral-ott.net/SPT/SPT.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", KIDS ZOON MAX
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://www.stc.com.sa/content/stc/sa/ar/personal/lifestyle/stctv/_jcr_content/root/container/columncontainer_copy/par_2/image_copy_191198873.coreimg.png/1736704152252/kid-zone.png", KIDS ZOON MAX
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=3d7cdc5ccfaa627204226bd2e3311863:1cf22d977dbf845ad0cbc6f1145b081e
 https://fastly-live.cdn.intigral-ott.net/KDM/KDM.isml/manifest.mpd
 
-#EXTINF:-1 group-title="كرتون" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SMART ZONE
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://www.stc.com.sa/content/stc/sa/ar/personal/lifestyle/stctv/_jcr_content/root/container/columncontainer_copy/par_1/image_copy_191198873.coreimg.png/1736704209083/smart-zone.png", SMART ZONE
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=52ec939fdeebacad41e459570e435e53:dd664470cd64d4e7a1130f9d85383e83
 https://fastly-live.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd 
