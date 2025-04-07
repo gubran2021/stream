@@ -96,47 +96,47 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=Q2a-HDiu8G_4Bn10nWTr6g:1743551501
-http://45.139.122.148:8000/play/a004
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411383&extension=ts&play
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9YKG6Dmk6L9RyIBGYKLZ4g:1743552776
-http://45.139.122.148:8000/play/a005
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411382&extension=ts&play
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9YKG6Dmk6L9RyIBGYKLZ4g:1743552776
-http://45.139.122.148:8000/play/a006
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411381&extension=ts&play
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d58IvaVmCJNK0W6Sc1Z_TQ:1743553033
-http://45.139.122.148:8000/play/a007
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411380&extension=ts&play
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=AMM0TuegLPNCmtmEjR_QVw:1743552953
-http://45.139.122.148:8000/play/a008
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411379&extension=ts&play
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-http://45.139.122.148:8000/play/a009
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411378&extension=ts&play
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-http://45.139.122.148:8000/play/a00a
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411377&extension=ts&play
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-http://45.139.122.148:8000/play/a00b
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411376&extension=ts&play
 
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 9 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
-http://45.139.122.148:8000/play/a00c
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411375&extension=ts&play
 
 
 
