@@ -204,7 +204,7 @@ https://fastly-live.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9 
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg", MBC MASR 2
+#EXTINF:-1 group-title="دراما" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYjNVIjBXmi5fojIueZEwYDISIhkhNsImjEimEcNlgcJd2eLyXbcjQTog5wSjEDww9POy0n3hYYyrhyBEsDG8hYQr_HxHg2EpDLXZnOAJfOs5YAeZNhMYT9u-sxWROu9TLIhm_fvx43I/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9-%25D8%25A5%25D9%2585-%25D8%25A8%25D9%258A-%25D8%25B3%25D9%258A-%25D9%2585%25D8%25B5%25D8%25B1-2.png", MBC MASR 2
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
 https://fastly-live.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd
