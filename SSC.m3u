@@ -584,7 +584,7 @@ https://fastly-live.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
 https://live-hls-web-ajd-fa.thehlive.com/AJD/02.m3u8
 
 
-#EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic Channel HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a0/National_Geographic_%282016-.n.v.%29.png/revision/latest?cb=20180207164313",National Geographic Channel HD
+#EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic Channel HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png",National Geographic Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -592,7 +592,7 @@ https://live-hls-web-ajd-fa.thehlive.com/AJD/02.m3u8
 https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
 
 
-#EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic WILD HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8b/National_Geographic_Wild_%282019-.n.v.%29.png/revision/latest?cb=20190206181820",National Geographic WILD HD
+#EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",National Geographic WILD HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -600,7 +600,7 @@ https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
 https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
 
 
-#EXTINF:-1 group-title="الوثائقية" tvg-id="Nat Geo Abu Dhabi HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a0/National_Geographic_%282016-.n.v.%29.png/revision/latest?cb=20180207164313",Nat Geo Abu Dhabi HD
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Nat Geo Abu Dhabi HD"tvg-logo="https://alkhabarkw.com/wp-content/uploads/2024/09/%D9%82%D9%86%D8%A7%D8%A9-%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84-%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83-%D8%A3%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A.webp",Nat Geo Abu Dhabi HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
