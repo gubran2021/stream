@@ -189,7 +189,7 @@ https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=91fd848bc682f2ab5420a2ac015babda:e43f533738247b56fefebcee90376cd3  
 https://fastly-live.cdn.intigral-ott.net/MBDH/MBDH.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://mediaaws.almasryalyoum.com/news/medium/2025/02/20/2613279_0.jpeg", MBC DRAMA MASR
+#EXTINF:-1 group-title="دراما" tvg-logo="https://mediaaws.almasryalyoum.com/news/medium/2025/02/20/2613279_0.jpeg", MBC MASR DRAMA
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=91fd848bc682f2ab5420a2ac015babda:e43f533738247b56fefebcee90376cd3  
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
