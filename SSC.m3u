@@ -576,7 +576,7 @@ https://fastly-live.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="الوثائقية" tvg-id="Al jazeera Documentary HD"tvg-logo="https://ia902907.us.archive.org/8/items/aljazeeradocumentary1/al-jazeera-documentary%20%281%29.jpg",jazeera Documentary HD
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Al jazeera Documentary HD"tvg-logo="https://yt3.googleusercontent.com/KIFchyPKtitq9qjQnvmiCgh3M_3DIP_hL2xga_6SpQeJgWaU3lPnnH4tyEBy-z06x5o89y9nVyA=s900-c-k-c0x00ffffff-no-rj",jazeera Documentary HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -614,7 +614,7 @@ https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
 https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
 
-#EXTINF:-1 group-title="الوثائقية" tvg-id="Discovery Channel HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c2/Discovery_%282019-.n.v.%29.png/revision/latest?cb=20190507055739",Discovery Channel HD
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Discovery Channel HD"tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg",Discovery Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
