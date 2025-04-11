@@ -600,7 +600,7 @@ https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
 https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
 
 
-#EXTINF:-1 group-title="الوثائقية" tvg-id="Nat Geo Abu Dhabi HD"tvg-logo="https://alkhabarkw.com/wp-content/uploads/2024/09/%D9%82%D9%86%D8%A7%D8%A9-%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84-%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83-%D8%A3%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A.webp",Nat Geo Abu Dhabi HD
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Nat Geo Abu Dhabi HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png",Nat Geo Abu Dhabi HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
