@@ -234,6 +234,26 @@ https://fastly-live.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212
 https://fastly-live.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
 
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://shahid.mbc.net/mediaObject/a8c096c0-6d93-4bf6-b17c-befafea9e0d3?height=253&width=450&croppingPoint=&version=1&type=webp", Movies
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://shahid.mbc.net/mediaObject/fd628380-3d73-41fd-81d0-e025fad40b85?height=253&width=450&croppingPoint=&version=1&type=webp", MOVIES ACTION
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://shahid.mbc.net/mediaObject/dd836687-e012-450e-80d2-b8ed9bf8fcc1?height=253&width=450&croppingPoint=&version=1&type=webp", MOVIES THRILLER
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
+
+
 #EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1330_1.png", STAR ACTION
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
@@ -678,7 +698,13 @@ https://uselector.cdn.intigral-ott.net/HGTV/HGTV.isml/manifest.mpd
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="الوثائقية" tvg-id="HGTV HD"tvg-logo="https://images.squarespace-cdn.com/content/v1/6251c1fa9a92a842582424ef/913fbe10-de57-403e-b90c-6cd3019dacc6/Nature_Time_Logo.png",NATURE-TIME
+#EXTGRP: documentary
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://shls-live-enc.edgenextcdn.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
 
 
 #EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t1 4K
