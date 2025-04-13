@@ -1,0 +1,771 @@
+#EXTM3U
+#EXTINF:-1 group-title="الرياضية" tvg-id="SSC 1" tvg-logo="https://ar.elbadil.com/wp-content/uploads/2025/01/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-SSC-sport-1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-1.webp",SSC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-id="SSC 2" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc2.webp",SSC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-id="SSC 3" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc3.webp",SSC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-id="SSC 4" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc4.webp",SSC 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-id="SSC 5" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc5.webp",SSC 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-id="SSC EXTRA 1" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc-extra-1.webp",SSC EXTRA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-id="SSC EXTRA 2" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc-extra-2.webp",SSC EXTRA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-id="SSC EXTRA 3" tvg-logo="https://yallaiu.maxsp0orts.com/wp-content/uploads/2024/12/ssc-extra-3.webp",SSC EXTRA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/adsportasia1.png", PREMIUM 1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/adsportasia2.png",SPORTS PREMIUM 2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/starzplaysport.png",SPORTS STC TV FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/starzplaysport.png",STARZPLAY SPORTS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/adsportasia2.png", SPORTS ASIA 2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/657113
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass1.png", ALKASS 1 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass2.png", ALKASS 2 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass3.png", ALKASS 3 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master1080.m3u8
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass4.png", ALKASS 4 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass5.png", ALKASS 5 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass6.png", ALKASS 6 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Q2a-HDiu8G_4Bn10nWTr6g:1743551501
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411383&extension=ts&play
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9YKG6Dmk6L9RyIBGYKLZ4g:1743552776
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411382&extension=ts&play
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 3 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9YKG6Dmk6L9RyIBGYKLZ4g:1743552776
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411381&extension=ts&play
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d58IvaVmCJNK0W6Sc1Z_TQ:1743553033
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411380&extension=ts&play
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=AMM0TuegLPNCmtmEjR_QVw:1743552953
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411379&extension=ts&play
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411378&extension=ts&play
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411377&extension=ts&play
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411376&extension=ts&play
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="الرياضية",|AR| BEIN SPORTS 9 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
+http://tv.premiumplus.tv/play/live.php?mac=00:1a:79:C0:0D:F1&stream=1411375&extension=ts&play
+
+
+
+#EXTINF:-1 group-title="عربية" tvg-logo="https://1.bp.blogspot.com/-vh8Qvc4Zm9c/XZTKstHn4-I/AAAAAAAACg8/Tf-r6UNOI9kBnE4nVaPlUzPOm3CBtj81QCLcBGAsYHQ/s1600/11.png", DUBAI SPORTS 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=507e961ed13ca34c449ba45d6070b06e:c79fa598a6b4ccd40d4b264e16de6134
+https://fastly-live.cdn.intigral-ott.net/DBSH/DBSH.isml/manifest.mpd
+
+#EXTINF:-1 group-title="عربية" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/65159df2a1.png", DUBAI SPORTS 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=b56ae1a253e92a7efe223858f1b909a5:6f3a9f6cf736fc3cd1727b4b626c943a
+https://fastly-live.cdn.intigral-ott.net/DBS2/DBS2.isml/manifest.mpd
+
+#EXTINF:-1 group-title="عربية" tvg-logo="https://www.gdnonline.com/gdnimages/20220201/20220201022222%D9%8A%D9%88%D9%85%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-8f898a6c-e19b-4b07-ac73-61f3f4c9f186.jpeg?20240719%27", BAHRIEN SPORTS
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=4715ff70915cd2a490da7e63251072c2:1c349d100a1abaacd76fe62d628fd7ab
+https://fastly-live.cdn.intigral-ott.net/BST/BST.isml/manifest.mpd
+
+#EXTINF:-1 group-title="عربية" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
+#EXTINF:-1 group-title="عربية" tvg-logo="https://www.parsatv.com/index_files/channels/sharjah.jpg", SHARJAH SPORTS
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
+https://fastly-live.cdn.intigral-ott.net/SHS/SHS.isml/manifest.mpd
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/474w/intigral/STCTVCINEMAY2024M/STCTVCINEMAY2024M-474x677-PST.jpg", STC CIEMA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613
+https://fastly-live.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/474w/intigral/STCTVDRAMAY2024M/STCTVDRAMAY2024M-474x677-PST.jpg", STC DRAMA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c
+https://fastly-live.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd 
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/474w/intigral/STCTVFAMILYY2024M/STCTVFAMILYY2024M-474x677-PST.jpg", STC FAMILY
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
+https://fastly-live.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/81/Mbc1logo.png/revision/latest?cb=20240120211822.png", MBC 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a  
+https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://alnahdanews.com/uploads/images/2020/06/E85Zu.jpeg", MBC DRAMA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=91fd848bc682f2ab5420a2ac015babda:e43f533738247b56fefebcee90376cd3  
+https://fastly-live.cdn.intigral-ott.net/MBDH/MBDH.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://mediaaws.almasryalyoum.com/news/medium/2025/02/20/2613279_0.jpeg", MBC MASR DRAMA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=91fd848bc682f2ab5420a2ac015babda:e43f533738247b56fefebcee90376cd3  
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png", MBC Drama Plus
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=d047b20a11fff140d4691ad839f997da:522f1af7009bc125fe0e40e143532052 
+https://fastly-live.cdn.intigral-ott.net/MBP/MBP.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Rrphc2UJloV4YkErfk1gohptoPdX-r_1Rg&s", MBC VARITY
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c
+https://fastly-live.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png", MBC MASR
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9 
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYjNVIjBXmi5fojIueZEwYDISIhkhNsImjEimEcNlgcJd2eLyXbcjQTog5wSjEDww9POy0n3hYYyrhyBEsDG8hYQr_HxHg2EpDLXZnOAJfOs5YAeZNhMYT9u-sxWROu9TLIhm_fvx43I/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9-%25D8%25A5%25D9%2585-%25D8%25A8%25D9%258A-%25D8%25B3%25D9%258A-%25D9%2585%25D8%25B5%25D8%25B1-2.png", MBC MASR 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
+https://fastly-live.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MBC4_Logo.png/revision/latest/scale-to-width-down/250?cb=20211229225709", MBC 4
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c9cf1779757abfd8e720760281f3682d:dc32f1eac4848a679c0c038f5be08d47 
+https://fastly-live.cdn.intigral-ott.net/MB4H/MB4H.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/1200px-MBC2_Logo.svg.png", MBC 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
+https://fastly-live.cdn.intigral-ott.net/MB2H/MB2H.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://www.almowaten.net/wp-content/uploads/2020/10/8de24a155e2152c225375f0b4dc51ca5.jpg", MBC ACTION
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1
+https://fastly-live.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MBC_Max_Logo.svg/1200px-MBC_Max_Logo.svg.png", MBC MAX
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212
+https://fastly-live.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://shahid.mbc.net/mediaObject/a8c096c0-6d93-4bf6-b17c-befafea9e0d3?height=253&width=450&croppingPoint=&version=1&type=webp", Movies
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://shahid.mbc.net/mediaObject/fd628380-3d73-41fd-81d0-e025fad40b85?height=253&width=450&croppingPoint=&version=1&type=webp", MOVIES ACTION
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://shahid.mbc.net/mediaObject/dd836687-e012-450e-80d2-b8ed9bf8fcc1?height=253&width=450&croppingPoint=&version=1&type=webp", MOVIES THRILLER
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1330_1.png", STAR ACTION
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
+https://fastly-live.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1212_1.png", STAR MOVIES
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
+https://fastly-live.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1228_1.png", STAR Series
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1
+https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png", TCM
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270
+https://fastly-live.cdn.intigral-ott.net/TCM/TCM.isml/manifest.mpd
+
+
+
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://media0075.elcinema.com/tvguide/1182_1.png", ART Hekayat 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=4ccb01903d6868e27953ff0298d4ac05:d156518d6ab453d9f9d12c243280be8f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd
+
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://media0075.elcinema.com/tvguide/1122_1.png", ART Hekayat
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=3d614bb04140eda383d117fb55e9a361:b669cdf2cb65eff56d1e3534c7a54b53
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1195_1.png", ART Cinema
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670 
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1121_1.png", ART Aflam 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=809a386e57689d56c01a5c3190889641:d54639bb7d418d515e5198663a6d7ae5
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1120_1.png", ART Aflam 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db 
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd
+
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://rotana.net/logos/khaleejiya.png", ROTANA KHALAJA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50 
+https://fastly-live.cdn.intigral-ott.net/ROTK/ROTK.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402481.webp", ROTANA CINEMA +
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=a5c68634296f78f98dc51695f41926af:bc9b482e1188d3f5e702c49fcd598615
+https://fastly-live.cdn.intigral-ott.net/ROTP/ROTP.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://www.rotana.net/logos/drama.png", ROTANA DRAMA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=9a5b1526dfcde755556044faed10009a:8ac2555f230e92cd5bb79eb984710e19
+https://fastly-live.cdn.intigral-ott.net/ROTD/ROTD.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://www.rotana.net/logos/comedy.png", ROTANA COMEDY
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=80dde71510c8e2b92f073c794b1fcc4c:3efe719fbbfd197ef9b77638719d4ab7
+https://fastly-live.cdn.intigral-ott.net/ROTF/ROTF.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://www.rotana.net/logos/cinemamasr.png", ROTANA CINEMA MASR
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=3681ebddd4d011f323310b47bb1e845c:932ba3a0ad67d2ff4ff607e939f562cc 
+https://fastly-live.cdn.intigral-ott.net/ROTCM/ROTCM.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://www.rotana.net/logos/cinema.png", ROTANA CINEMA KSA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=28d6e48b26bccaa8031dd2325ad75d4d:fc6013bcf409865329e2bd44cf1010cf  
+https://fastly-live.cdn.intigral-ott.net/ROTCK/ROTCK.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Aflam_New.png", ROTANA AFLAM
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=6cd2422a351538fe9ef93054e276b664:f5e9d2504dd86d6d180837b8efee6929  
+https://fastly-live.cdn.intigral-ott.net/ROTFP/ROTFP.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://www.rotana.net/logos/classical.png", ROTANA CLASSIC
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c3b50db52999b0b5b90653812a13a66b:302c1d641a38a8f30b4fda466d70acc2
+https://fastly-live.cdn.intigral-ott.net/ROTZ/ROTZ.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402587.webp", ROTANA CINEMA US
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=f9c253bf54bbdf0a6d1c648f8c2f3612:5bf4a3ebcffc6115abf82312707f28ae 
+https://fastly-live.cdn.intigral-ott.net/ROTCU/ROTCU.isml/manifest.mpd
+
+#EXTINF:-1 group-title="عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", bedaya
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=5538be626e317ebae98df64d42bd3c16:348d5dc475576d0089d44682822cef2c 
+https://fastly-live.cdn.intigral-ott.net/ABD/ABD.isml/manifest.mpd
+
+#EXTINF:-1 group-title="عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", Riyad SEASON
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=36ea18d2e268dce77226e2279bebb0c4:49f33f93ced150165f9e75eb467972d9
+https://fastly-live.cdn.intigral-ott.net/RYS/RYS.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CBC DRAMA 
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bbe52bf1e9dedfb41ec620eee7455c93:7c005ea4fa236bfb9fd5f97336feb637
+https://fastly-live.cdn.intigral-ott.net/CBD/CBD.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SAUDIA NOW
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=086bb0f948126c6b9cee1df3028a118e:100841c6adc7292baf3698f16ace197f 
+https://fastly-live.cdn.intigral-ott.net/KSAS2/KSAS2.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALNAHR
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=d2a1a984b3f9587bfe450b4335f5f672:59487c0c415a995e9bd2d384d08871b4
+https://fastly-live.cdn.intigral-ott.net/NAR/NAR.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALNAHER DRAMA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=f6204e4d7aa3538fded62be8c04ad0c7:0d6e44ff40173c6de135c4544d6cb888 
+https://fastly-live.cdn.intigral-ott.net/NAD/NAD.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALHAYA 
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=aad33a029c39e70a58600b54ae5b8dee:24ea749523d73b7a087ba61c16568f4b
+https://fastly-live.cdn.intigral-ott.net/AH1/AH1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", TEN
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=15448afa3aefa9e1a6b8342a1c83eb2a:70fe8d1487e639ae3dac4964b4e858b1 
+https://fastly-live.cdn.intigral-ott.net/TEN/TEN.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", DUBAI
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=cd958ea8546f458b5afdf0e76f0a4075:3842b43d8f3db44d32cbd80ddd4cbe4e  
+https://fastly-live.cdn.intigral-ott.net/DBT/DBT.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ABU DAHBI
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=5b997b6eda03520a572ab527499859ca:0a35a1a66db970a5b7e4bb6d469737cd 
+https://fastly-live.cdn.intigral-ott.net/ADO/ADO.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALEMIRATS
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=93e6d7023b51dee949dfca57bcadf8e4:634c0e0f8412e165f94b79fefbd47371 
+https://fastly-live.cdn.intigral-ott.net/ADE/ADE.isml/manifest.mpd
+
+#EXTINF:-1 group-title="عربية" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALAAN
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=cab6808c29d7c44b013a7bc83db9ec94:6df97c03d57e32c7150a550ca499f1e2
+https://fastly-live.cdn.intigral-ott.net/AAT/AAT.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALRAI TV
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=442d2c73399e32305cbe0eba164f9e57:72156a46991c8c06248d1a2d6039f7fd 
+https://fastly-live.cdn.intigral-ott.net/RAIT/RAIT.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALSHARJAH
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=338db4063356e74ff5b40bae7037ca05:d3156c2448237a0bb6b0cb418f7009cc
+https://fastly-live.cdn.intigral-ott.net/SHT/SHT.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", BAHRAIEN
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=338db4063356e74ff5b40bae7037ca05:d3156c2448237a0bb6b0cb418f7009cc 
+https://fastly-live.cdn.intigral-ott.net/BHT/BHT.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CBC
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=92e25d983c1cc0f0aa7c6981c8a0d9f4:87e328a98f971797feb9b30c4555d82b
+https://fastly-live.cdn.intigral-ott.net/CBC/CBC.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALQAHER W ELNAS 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=c39999cf99e9762dcb191583d283feb0:dc8834f755892cf9a53b29f7a2ec2c69 
+https://fastly-live.cdn.intigral-ott.net/KWN1/KWN1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALQAHER W ELNAS 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=315720a90ddefcaf91ee58ff35c61cb1:42f5c7725fe335db6715068248fa997e
+https://fastly-live.cdn.intigral-ott.net/KWN2/KWN2.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALMASRIAY
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=f4794baa32463d3d0ad99360aacf9231:299f313b4f73d19551f5c0eb399b8c31 
+https://fastly-live.cdn.intigral-ott.net/MSY_TMP/MSY_TMP.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", LBC
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=e0e509505fe1c0ffbd8a231975f5766b:597ac85861db4bac4ba4a354ff6cdcf5
+https://fastly-live.cdn.intigral-ott.net/LBC/LBC.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", L TV
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=5c83f25f98a0fdfccb2823ca2a95bcd6:aa0fe96e3028f7aa4fb7ac182b38157b 
+https://fastly-live.cdn.intigral-ott.net/LAN/LAN.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png", DUBAI ONE
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=ab96aca699762f6402588eafe321a975:345f243b66226e22c7637b0050930b18
+https://fastly-live.cdn.intigral-ott.net/DBO/DBO.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SAMA DUBAI
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=38f201523e9e04edccfda8ceff5dae8c:86fda252f9f2990c5de7f4d8af26b99e 
+https://fastly-live.cdn.intigral-ott.net/DBSM/DBSM.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MAMLAKA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=f0424928a6042dba4e0fc320994e44e4:1dfd658db4f9c9cf2b15c7a586990c43
+https://fastly-live.cdn.intigral-ott.net/MAM/MAM.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALSHARQUI
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=0168cac3ca8e350b5f3c22b9b681766a:f98618089cb280f3cb826ce353e66646 
+https://fastly-live.cdn.intigral-ott.net/WMT/WMT.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALSHARQ
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=be20db73c8ec461007f1d2ea9bd94110:7a2fa6ebc8469ff8823297bceca60ec3
+https://fastly-live.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما"tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALWESTA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=1ac58c80fc6ed4ce1998bd597ab921ed:49ae475addfd7c7ff897222a88a8ff68 
+https://fastly-live.cdn.intigral-ott.net/WMT/WMT.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALFAJURA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=dcc775fde50a5069a4c51df37bb7eacd:ad053dfe8ea7cbc05664bfed4ae324cd
+https://fastly-live.cdn.intigral-ott.net/FUJ/FUJ.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALORDNIY
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=1ded8b473e5bca8fbe25ab748b7276f7:7495cf29b425c0f27f41244a0ff256ff
+https://fastly-live.cdn.intigral-ott.net/JTV/JTV.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", OMAN
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=4b0c269315b4eff479ec1cfa683d7199:a13990be602b4b4210d9e278b2683a3c
+https://fastly-live.cdn.intigral-ott.net/AMT/AMT.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://media0075.elcinema.com/tvguide/1329_1.png", STAR WORLD
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
+https://fastly-live.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CBC SOFRA
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=335b0869905fe50f5078bb2258bbf379:bfb9d58ab091637e5f159207132bfc10
+https://fastly-live.cdn.intigral-ott.net/CBS/CBS.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", FATAFEAT
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
+https://fastly-live.cdn.intigral-ott.net/FAT/FAT.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ADF
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=80dde71510c8e2b92f073c794b1fcc4c:3efe719fbbfd197ef9b77638719d4ab7 
+https://fastly-live.cdn.intigral-ott.net/DAF/DAF.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_Bollywood_TV_Channel_Logo.png/1599px-MBC_Bollywood_TV_Channel_Logo.png", MBC BOLLYWOOD
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=ac459e2ccc351aaee3fc0802084cf5c3:794bfe4df0f487bd4e2789ddb464f82c
+https://fastly-live.cdn.intigral-ott.net/MBB/MBB.isml/manifest.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ZEE AFLAM
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=88945b4394d3d90988d60b474af0b5b9:0888b9c641c5987d6a7e8879938b8eea
+https://fastly-live.cdn.intigral-ott.net/ZEA/ZEA.isml/manifest.mpd
+
+#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ZEE ALWAN
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=f446c01f7438ae78bdc808aeec15881e:5786d43cd7b2d29d914ba30b220c190e
+https://fastly-live.cdn.intigral-ott.net/ZEL/ZEL.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c0/Disney_Channel_2022.svg/revision/latest/thumbnail/width/360/height/360?cb=20230323022607", Disney channel
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195 
+https://fastly-live.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/330px-Cartoon_Network_Arabic_logo.png", Cartoon Network Arabic
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=ece7bbc683eb35d1e6b3e32cccbd8fb0:f72bd6ea26e243524d58993b58122313
+https://uselector.cdn.intigral-ott.net/CNA/CNA.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=8442ea8da91e1d0f392515adc680a4f5:4e9b90ac2c26cb08cd34005e08ecf05c
+https://uselector.cdn.intigral-ott.net/TCN/TCN.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/Disney-Junior-Logo.png", Disney jr
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0 
+https://fastly-live.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/500px-Cartoonito_-_Logo_2021.svg.png", CARTOONITO
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=2802f3f0e4538e4e6b9085c179c15dce:5afbd95bb853cc2c104e3b960d51defe
+https://fastly-live.cdn.intigral-ott.net/BOM/BOM.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402579.webp", ROTANA KIDS
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=2abdaccade913849b5d49f66a0dc5ec0:66a14430097ac3a49564cefd4a18047d
+https://fastly-live.cdn.intigral-ott.net/ROTI/ROTI.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg/640px-Mbc_3_Logo_TV_Channels_Official.jpg", MBC 3
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=ed5ca9f7aafa02e7ba138eff7c021c8f:f27dae60067ad34b5a921af79a041372
+https://fastly-live.cdn.intigral-ott.net/MB3/MB3.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQxCCNq5TC5unkTmXx7NnGU1vSO_IWjYjgQ&s", MAJD TV
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=64d581b1c69f62ded3d3085245ee74d9:ff66c471d1fb0e2c3140ee8a62814d8b
+https://fastly-live.cdn.intigral-ott.net/MAJ/MAJ.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png", SPACE TOON
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=2d61037244f336e8b8daf832ffc84003:999b547e5fdd56948315382730852045
+https://fastly-live.cdn.intigral-ott.net/SPT/SPT.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://www.stc.com.sa/content/stc/sa/ar/personal/lifestyle/stctv/_jcr_content/root/container/columncontainer_copy/par_2/image_copy_191198873.coreimg.png/1736704152252/kid-zone.png", KIDS ZOON MAX
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=3d7cdc5ccfaa627204226bd2e3311863:1cf22d977dbf845ad0cbc6f1145b081e
+https://fastly-live.cdn.intigral-ott.net/KDM/KDM.isml/manifest.mpd
+
+#EXTINF:-1 group-title="كرتون" tvg-logo="https://www.stc.com.sa/content/stc/sa/ar/personal/lifestyle/stctv/_jcr_content/root/container/columncontainer_copy/par_1/image_copy_191198873.coreimg.png/1736704209083/smart-zone.png", SMART ZONE
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=52ec939fdeebacad41e459570e435e53:dd664470cd64d4e7a1130f9d85383e83
+https://fastly-live.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd 
+
+
+
+
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Al jazeera Documentary HD"tvg-logo="https://yt3.googleusercontent.com/KIFchyPKtitq9qjQnvmiCgh3M_3DIP_hL2xga_6SpQeJgWaU3lPnnH4tyEBy-z06x5o89y9nVyA=s900-c-k-c0x00ffffff-no-rj",jazeera Documentary HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+https://live-hls-web-ajd-fa.thehlive.com/AJD/02.m3u8
+
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic Channel HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png",National Geographic Channel HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
+
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",National Geographic WILD HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
+https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
+
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Nat Geo Abu Dhabi HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png",Nat Geo Abu Dhabi HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5
+https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Animal Planet HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9f/Animal_Planet_%282018-.n.v.%29.png/revision/latest?cb=20181029073336",Animal Planet HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
+https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Discovery Channel HD"tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg",Discovery Channel HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
+https://uselector.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Discovery Family Channel HD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTeQHC-eOC6kWeDb0kwuiXIKgVx-4IZCnsUFGys7iMHO3LA2slEtnz05kG9hFomzNUKovBoxyBMxoN2YEUYJhKo1vERWZKGKe5biC4kFd21nk92pGm2IkYBYOYa9ObCYg5ecITHd5qfVPE/s1600/Discovery+Family.png",Discovery Family Channel HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
+https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Investigation Discovery (ID) HD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWOHBRSDbFBdBlYFTLsuCK6-4OY0hQ4IidFjmK0JyPsE53Fdd4ODQapTkMsvGgJtXWzymyhTvDtwiM6NUIV6Sa2EtmJb5tCsMdWdRn2BFE_cqWBDGW2T9JbOGQxOx1yot6Tm8S8SrLwAZ8/s1600/ID_HD.png",Investigation Discovery (ID) HD
+#EXTGRP: الوثائقية
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
+https://uselector.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Asharq Documentary HD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asharq_Doc_23.png/revision/latest?cb=20230924082531",Asharq Documentary HD
+#EXTGRP: documentary
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be20db73c8ec461007f1d2ea9bd94110:7a2fa6ebc8469ff8823297bceca60ec3
+https://uselector.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Asharq Documentary HD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asharq_Doc_23.png/revision/latest?cb=20230924082531",Asharq Discovery HD
+#EXTGRP: documentary
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb
+https://uselector.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd
+
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="TLC HD"tvg-logo="https://logonoid.com/images/tlc-logo.png",TLC HD
+#EXTGRP: documentary
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
+https://uselector.cdn.intigral-ott.net/TLC/TLC.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="HGTV HD"tvg-logo="https://logonoid.com/images/hgtv-logo.png",HGTV HD
+#EXTGRP: documentary
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://uselector.cdn.intigral-ott.net/HGTV/HGTV.isml/manifest.mpd
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="HGTV HD"tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi",LOVE NATURE
+#EXTGRP: documentary
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+
+#EXTINF:-1 group-title="الوثائقية" tvg-id="HGTV HD"tvg-logo="https://images.squarespace-cdn.com/content/v1/6251c1fa9a92a842582424ef/913fbe10-de57-403e-b90c-6cd3019dacc6/Nature_Time_Logo.png",NATURE-TIME
+#EXTGRP: documentary
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
+https://shls-live-enc.edgenextcdn.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
+
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t1 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036847.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t2 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036846.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t3 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036845.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t4 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036844.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t5 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036843.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t6 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036842.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t7 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036841.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t8 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036839.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t9 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036838.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t10 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036837.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y3JwQaZzyvV9mAlnraLasCGXEn-TVXPAjA&s", t11 4K
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/1036840.m3u8
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg",  4K 1
+http://tools34387.cdngold.me/live/majedalhazmi/c14283e2ec/484472.m3u8
+
+
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://d29u1ihjhteljl.cloudfront.net/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Finventoryms-prod%2Fimages%2Finventory_image_rycgwowxax_04-10-2023_at_07-24_AM.jpeg&w=750&q=75", STARZPLAY MOVIES
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=bf316ae13c04ff60cc7a51c636a98334:ef04e87f8ea363fe2bd3368603a423b4 
+https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Crime/DASH/StarzPlay_Crime.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://d29u1ihjhteljl.cloudfront.net/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Finventoryms-prod%2Fimages%2Finventory_image_rycgwowxax_04-10-2023_at_07-24_AM.jpeg&w=750&q=75", STARZPLAY ACTION
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=295981eefbf1bf38fe361ee6c969dacf:c16c1c18d96a2932e6fff8f685cbf8d8
+https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Action/DASH/StarzPlay_Action.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://d29u1ihjhteljl.cloudfront.net/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Finventoryms-prod%2Fimages%2Finventory_image_rycgwowxax_04-10-2023_at_07-24_AM.jpeg&w=750&q=75", STARZPLAY COMEDY
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=b527f6115e7a3a6c8eed0cf215fb6c89:21737a3769189c6dca4169382884c8b4 
+https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Comedy/DASH/StarzPlay_Comedy.mpd
+
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://d29u1ihjhteljl.cloudfront.net/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Finventoryms-prod%2Fimages%2Finventory_image_rycgwowxax_04-10-2023_at_07-24_AM.jpeg&w=750&q=75", STARZPLAY SERIES
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1 
+https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd
+
+
+
+
+
