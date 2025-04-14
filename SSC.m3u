@@ -68,27 +68,23 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
 https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/adsportasia2.png", SPORTS ASIA 2 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/657113
 
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass1.png", ALKASS 1 HD
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://cne-eg.com/uploads/logos/20183142627377.png", ALKASS 1 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
 
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass2.png", ALKASS 2 HD
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png", ALKASS 2 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
 
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass3.png", ALKASS 3 HD
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://cne-eg.com/uploads/logos/20183143127531.png", ALKASS 3 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master1080.m3u8
 
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass4.png", ALKASS 4 HD
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://cne-eg.com/uploads/logos/20183142520385.png", ALKASS 4 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
 
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass5.png", ALKASS 5 HD
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png", ALKASS 5 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
 
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/alkass6.png", ALKASS 6 HD
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREoP2BHo8F_7NVCwe2cK9pXQNCgsmXkC--sw&s", ALKASS 6 HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
 
 
