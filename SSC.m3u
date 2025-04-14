@@ -48,12 +48,12 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
 
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/adsportasia1.png", PREMIUM 1 FHD
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://yallasm.maxsp0orts.com/wp-content/uploads/2024/02/ad-sports-premium-1.webp",SPORTS PREMIUM 1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.logo-cdn.cc/adsportasia2.png",SPORTS PREMIUM 2 FHD
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.kooora.com/?i=o/h/2/16/ad-sports-premium-1.png",SPORTS PREMIUM 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
