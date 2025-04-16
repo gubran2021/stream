@@ -333,7 +333,7 @@ https://fastly-live.cdn.intigral-ott.net/ROTCM/ROTCM.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=28d6e48b26bccaa8031dd2325ad75d4d:fc6013bcf409865329e2bd44cf1010cf  
 https://fastly-live.cdn.intigral-ott.net/ROTCK/ROTCK.isml/manifest.mpd
 
-#EXTINF:-1 group-title="أفلام" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp", ROTANA AFLAM
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp", ROTANA AFLAM +
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=6cd2422a351538fe9ef93054e276b664:f5e9d2504dd86d6d180837b8efee6929  
 https://fastly-live.cdn.intigral-ott.net/ROTFP/ROTFP.isml/manifest.mpd
