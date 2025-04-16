@@ -358,12 +358,12 @@ https://fastly-live.cdn.intigral-ott.net/ABD/ABD.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=36ea18d2e268dce77226e2279bebb0c4:49f33f93ced150165f9e75eb467972d9
 https://fastly-live.cdn.intigral-ott.net/RYS/RYS.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CBC DRAMA 
+#EXTINF:-1 group-title="دراما" tvg-logo="https://yt3.googleusercontent.com/7pFWqICDgFixbHYLFTSHBu7Q0MOTPfrOnZFw1_tjQ7F9dr1jTJspQpFaN12OFhtGWMabTnhQrA=s900-c-k-c0x00ffffff-no-rj", CBC DRAMA 
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=bbe52bf1e9dedfb41ec620eee7455c93:7c005ea4fa236bfb9fd5f97336feb637
 https://fastly-live.cdn.intigral-ott.net/CBD/CBD.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SAUDIA NOW
+#EXTINF:-1 group-title="دراما" tvg-logo="https://yt3.googleusercontent.com/cGOClPyBksdv9SAEdGcsyvL98RCjHgnjMaPAUZ3OEEvNoqJKwFm2oD5nG-8Myw3jMjtXCxbP=s900-c-k-c0x00ffffff-no-rj", SAUDIA NOW
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=086bb0f948126c6b9cee1df3028a118e:100841c6adc7292baf3698f16ace197f 
 https://fastly-live.cdn.intigral-ott.net/KSAS2/KSAS2.isml/manifest.mpd
@@ -388,17 +388,17 @@ https://fastly-live.cdn.intigral-ott.net/AH1/AH1.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=15448afa3aefa9e1a6b8342a1c83eb2a:70fe8d1487e639ae3dac4964b4e858b1 
 https://fastly-live.cdn.intigral-ott.net/TEN/TEN.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", DUBAI
+#EXTINF:-1 group-title="دراما" tvg-logo="https://yt3.googleusercontent.com/deNVtgrQ-Nw451DG3TahyRd_551JGj3ulN3aWQ9i-vbYmY3hNio0LC1CQ55TBebWBueDo5Vz=s900-c-k-c0x00ffffff-no-rj", DUBAI
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=cd958ea8546f458b5afdf0e76f0a4075:3842b43d8f3db44d32cbd80ddd4cbe4e  
 https://fastly-live.cdn.intigral-ott.net/DBT/DBT.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ABU DAHBI
+#EXTINF:-1 group-title="دراما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Abu_Dhabi_TV_logo_2023.png", ABU DAHBI
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=5b997b6eda03520a572ab527499859ca:0a35a1a66db970a5b7e4bb6d469737cd 
 https://fastly-live.cdn.intigral-ott.net/ADO/ADO.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALEMIRATS
+#EXTINF:-1 group-title="دراما" tvg-logo="https://yt3.googleusercontent.com/JazKLunYpUKH_8QipLmysBFzB11R_TiyAVGTaBivjJ2PX3iWtsQ6qfJWn1kdqJss3g5ffG962A=s900-c-k-c0x00ffffff-no-rj", ALEMIRATS
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=93e6d7023b51dee949dfca57bcadf8e4:634c0e0f8412e165f94b79fefbd47371 
 https://fastly-live.cdn.intigral-ott.net/ADE/ADE.isml/manifest.mpd
@@ -408,32 +408,32 @@ https://fastly-live.cdn.intigral-ott.net/ADE/ADE.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=cab6808c29d7c44b013a7bc83db9ec94:6df97c03d57e32c7150a550ca499f1e2
 https://fastly-live.cdn.intigral-ott.net/AAT/AAT.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALRAI TV
+#EXTINF:-1 group-title="دراما" tvg-logo="https://www.tadwena.net/wp-content/uploads/2021/10/maxresdefault-2023-09-20T054017.070.jpg", ALRAI TV
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=442d2c73399e32305cbe0eba164f9e57:72156a46991c8c06248d1a2d6039f7fd 
 https://fastly-live.cdn.intigral-ott.net/RAIT/RAIT.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALSHARJAH
+#EXTINF:-1 group-title="دراما" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/cc/d6/fullhd_a944754beaeb192cba3b7deb970d402df65ef87c.png", ALSHARJAH
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=338db4063356e74ff5b40bae7037ca05:d3156c2448237a0bb6b0cb418f7009cc
 https://fastly-live.cdn.intigral-ott.net/SHT/SHT.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", BAHRAIEN
+#EXTINF:-1 group-title="دراما" tvg-logo="https://www.mia.gov.bh/wp-content/uploads/2017/04/bahraintv.jpg", BAHRAIEN
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=338db4063356e74ff5b40bae7037ca05:d3156c2448237a0bb6b0cb418f7009cc 
 https://fastly-live.cdn.intigral-ott.net/BHT/BHT.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CBC
+#EXTINF:-1 group-title="دراما" tvg-logo="https://yt3.googleusercontent.com/Z19hkSCZMyz7iUaOLtIb-tPnWeOj_L7O4-yrvRBl0-3Sv8PfxWT-B82jIhvcQPSoTGWpbI34Pw=s900-c-k-c0x00ffffff-no-rj", CBC
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=92e25d983c1cc0f0aa7c6981c8a0d9f4:87e328a98f971797feb9b30c4555d82b
 https://fastly-live.cdn.intigral-ott.net/CBC/CBC.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALQAHER W ELNAS 1
+#EXTINF:-1 group-title="دراما" tvg-logo="https://web.elsob7.com/wp-content/uploads/2024/02/%d8%aa%d8%b1%d8%af%d8%af-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d9%88%d8%a7%d9%84%d9%86%d8%a7%d8%b3.jpg", ALQAHER W ELNAS 1
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=c39999cf99e9762dcb191583d283feb0:dc8834f755892cf9a53b29f7a2ec2c69 
 https://fastly-live.cdn.intigral-ott.net/KWN1/KWN1.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALQAHER W ELNAS 2
+#EXTINF:-1 group-title="دراما" tvg-logo="https://media.ngmisr.com/uploads1/2023/03/al-kahera-wal-nas-2.png", ALQAHER W ELNAS 2
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=315720a90ddefcaf91ee58ff35c61cb1:42f5c7725fe335db6715068248fa997e
 https://fastly-live.cdn.intigral-ott.net/KWN2/KWN2.isml/manifest.mpd
@@ -443,12 +443,12 @@ https://fastly-live.cdn.intigral-ott.net/KWN2/KWN2.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=f4794baa32463d3d0ad99360aacf9231:299f313b4f73d19551f5c0eb399b8c31 
 https://fastly-live.cdn.intigral-ott.net/MSY_TMP/MSY_TMP.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", LBC
+#EXTINF:-1 group-title="دراما" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrhXVcY2ovU7m14b1t7VwZUpTi-Hqcu671sQ&s", LBC
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=e0e509505fe1c0ffbd8a231975f5766b:597ac85861db4bac4ba4a354ff6cdcf5
 https://fastly-live.cdn.intigral-ott.net/LBC/LBC.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", L TV
+#EXTINF:-1 group-title="دراما" tvg-logo="https://yt3.googleusercontent.com/dStXoYQ_4AmHqnsr3kIbZpksP_k0Sa1xq3c69Qpv0MEJl9ROBVcjTKJtEFb-Y09dC-Qy-MubzoU=s900-c-k-c0x00ffffff-no-rj", L TV
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=5c83f25f98a0fdfccb2823ca2a95bcd6:aa0fe96e3028f7aa4fb7ac182b38157b 
 https://fastly-live.cdn.intigral-ott.net/LAN/LAN.isml/manifest.mpd
@@ -458,27 +458,18 @@ https://fastly-live.cdn.intigral-ott.net/LAN/LAN.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=ab96aca699762f6402588eafe321a975:345f243b66226e22c7637b0050930b18
 https://fastly-live.cdn.intigral-ott.net/DBO/DBO.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", SAMA DUBAI
+#EXTINF:-1 group-title="دراما" tvg-logo="https://www.klma.org/wp-content/uploads/2020/04/SAMA-DUBAI.jpg", SAMA DUBAI
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=38f201523e9e04edccfda8ceff5dae8c:86fda252f9f2990c5de7f4d8af26b99e 
 https://fastly-live.cdn.intigral-ott.net/DBSM/DBSM.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", MAMLAKA
+#EXTINF:-1 group-title="دراما" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2Q10aeHs5-DCmdpJghKWzPdB0iqLpM00pUcvt2KKijFc=s900-c-k-c0x00ffffff-no-rj", AlMAMLAKA
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=f0424928a6042dba4e0fc320994e44e4:1dfd658db4f9c9cf2b15c7a586990c43
 https://fastly-live.cdn.intigral-ott.net/MAM/MAM.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALSHARQUI
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=0168cac3ca8e350b5f3c22b9b681766a:f98618089cb280f3cb826ce353e66646 
-https://fastly-live.cdn.intigral-ott.net/WMT/WMT.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALSHARQ
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=be20db73c8ec461007f1d2ea9bd94110:7a2fa6ebc8469ff8823297bceca60ec3
-https://fastly-live.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd
-
-#EXTINF:-1 group-title="دراما"tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALWESTA
+#EXTINF:-1 group-title="دراما"tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nz7XpftBfa2pzal5fvNMhUbZXWPC4lANLlokPjQblIBA=s900-c-k-c0x00ffffff-no-rj", ALWESTA
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=1ac58c80fc6ed4ce1998bd597ab921ed:49ae475addfd7c7ff897222a88a8ff68 
 https://fastly-live.cdn.intigral-ott.net/WMT/WMT.isml/manifest.mpd
@@ -488,12 +479,12 @@ https://fastly-live.cdn.intigral-ott.net/WMT/WMT.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=dcc775fde50a5069a4c51df37bb7eacd:ad053dfe8ea7cbc05664bfed4ae324cd
 https://fastly-live.cdn.intigral-ott.net/FUJ/FUJ.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ALORDNIY
+#EXTINF:-1 group-title="دراما" tvg-logo="https://media.ngmisr.com/uploads1/2022/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86.png", Jordan
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=1ded8b473e5bca8fbe25ab748b7276f7:7495cf29b425c0f27f41244a0ff256ff
 https://fastly-live.cdn.intigral-ott.net/JTV/JTV.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", OMAN
+#EXTINF:-1 group-title="دراما" tvg-logo="https://yt3.googleusercontent.com/Yz2j0PMML9kA3zlYQgj2r2CceZN2k9fqvrLfUGqe2K0TsMDPjPGgDriGl5_bDl9yfbNXha3w=s900-c-k-c0x00ffffff-no-rj", AMAN
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=4b0c269315b4eff479ec1cfa683d7199:a13990be602b4b4210d9e278b2683a3c
 https://fastly-live.cdn.intigral-ott.net/AMT/AMT.isml/manifest.mpd
@@ -503,12 +494,12 @@ https://fastly-live.cdn.intigral-ott.net/AMT/AMT.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://fastly-live.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", CBC SOFRA
+#EXTINF:-1 group-title="دراما" tvg-logo="https://yt3.googleusercontent.com/Zui7ufROq1c5manT9nyQTYYybDBg4KUAH5q9biN4Q3En0u86yPzD3hrF-w8aInvxM9vm4U0a_Vo=s900-c-k-c0x00ffffff-no-rj", CBC SOFRA
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=335b0869905fe50f5078bb2258bbf379:bfb9d58ab091637e5f159207132bfc10
 https://fastly-live.cdn.intigral-ott.net/CBS/CBS.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", FATAFEAT
+#EXTINF:-1 group-title="دراما" tvg-logo="https://yt3.googleusercontent.com/z0_zhXfi3o6K4CIEK1GPLnxJQPzHcFRDZ-w9QqK1QaTesbOZQTq8_-4aaiTzI6LvQ8DFPRA-3w=s900-c-k-c0x00ffffff-no-rj", FATAFEAT
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
 https://fastly-live.cdn.intigral-ott.net/FAT/FAT.isml/manifest.mpd
@@ -523,12 +514,12 @@ https://fastly-live.cdn.intigral-ott.net/DAF/DAF.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=ac459e2ccc351aaee3fc0802084cf5c3:794bfe4df0f487bd4e2789ddb464f82c
 https://fastly-live.cdn.intigral-ott.net/MBB/MBB.isml/manifest.mpd
 
-#EXTINF:-1 group-title="أفلام" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ZEE AFLAM
+#EXTINF:-1 group-title="أفلام" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Zee_Aflam_Logo_2017.jpg/revision/latest/scale-to-width-down/284?cb=20240917142045", ZEE AFLAM
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=88945b4394d3d90988d60b474af0b5b9:0888b9c641c5987d6a7e8879938b8eea
 https://fastly-live.cdn.intigral-ott.net/ZEA/ZEA.isml/manifest.mpd
 
-#EXTINF:-1 group-title="دراما" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", ZEE ALWAN
+#EXTINF:-1 group-title="دراما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%B2%D9%8A_%D8%A3%D9%84%D9%88%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D9%85%D8%AF_%D9%85%D9%86%D8%B0_2018.png", ZEE ALWAN
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=f446c01f7438ae78bdc808aeec15881e:5786d43cd7b2d29d914ba30b220c190e
 https://fastly-live.cdn.intigral-ott.net/ZEL/ZEL.isml/manifest.mpd
