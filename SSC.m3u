@@ -592,12 +592,12 @@ https://fastly-live.cdn.intigral-ott.net/SZM/SZM.isml/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="الوثائقية" tvg-id="Al jazeera Documentary HD"tvg-logo="https://yt3.googleusercontent.com/KIFchyPKtitq9qjQnvmiCgh3M_3DIP_hL2xga_6SpQeJgWaU3lPnnH4tyEBy-z06x5o89y9nVyA=s900-c-k-c0x00ffffff-no-rj",jazeera Documentary HD
+#EXTINF:-1 group-title="الوثائقية" tvg-id="Al Aljazeera Documentary HD"tvg-logo="https://yt3.googleusercontent.com/KIFchyPKtitq9qjQnvmiCgh3M_3DIP_hL2xga_6SpQeJgWaU3lPnnH4tyEBy-z06x5o89y9nVyA=s900-c-k-c0x00ffffff-no-rj",Aljazeera Documentary HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
-https://live-hls-web-ajd-fa.thehlive.com/AJD/02.m3u8
+https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8
 
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic Channel HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png",National Geographic Channel HD
