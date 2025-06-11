@@ -746,6 +746,32 @@
         "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/StreamPlay.cs3",
         "name": "StreamPlay"
     },
+    {
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 693549,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98",
+            "Hexated",
+            "salman731"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "version": 289,
+        "internalName": "StreamPlay",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.AR.cs3",
+        "name": "StreamPlay.AR"
+    },
     { 
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xfGH3Q2FVINtuDKrS8FBP8uP2AHbKBxpeQ&s",
         "apiVersion": 1,
