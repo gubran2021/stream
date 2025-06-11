@@ -749,7 +749,7 @@
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "repositoryUrl": "https://github.com/gubran2021/stream/raw/refs/heads",
         "fileSize": 693549,
         "status": 1,
         "language": "en",
@@ -769,7 +769,7 @@
         "version": 289,
         "internalName": "StreamPlay.AR",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.AR.cs3",
+        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/StreamPlay.AR.cs3",
         "name": "StreamPlay.AR"
     },
     { 
