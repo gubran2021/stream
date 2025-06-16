@@ -814,7 +814,7 @@
         ],
         "version": 4,
         "internalName": "YTS",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.jar",
+        "jarUrl": "https://github.com/gubran2021/stream/raw/refs/heads/builds/YTS.jar",
         "description": "YTS Movies 4K Support (Torrent)",
         "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/YTS.cs3",
         "name": "YTS" 
