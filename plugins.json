@@ -842,7 +842,30 @@
         "url": "https://raw.githubusercontent.com/gubran2021/stream/heads/builds/Torrentio.cs3",
         "name": "Torrentio"
     },
-    { 
+    {
+        "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 99280,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Torrent",
+            "AsianDrama",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 28,
+        "internalName": "TorraStream",
+        "description": "#1 Best Extension \u2013 MultiAPI-Based with 4K Torrent Support (Debian) | Debian Users: Use Site Clone on Torrastream-Debian Example | Provider=Key OR TorBox=xxx-xxx-xxx-xxx",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/heads/builds/TorraStream.cs3",
+        "name": "TorraStream"
+    },
+    {
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xfGH3Q2FVINtuDKrS8FBP8uP2AHbKBxpeQ&s",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/gubran2021/stream",
