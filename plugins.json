@@ -818,6 +818,29 @@
         "description": "YTS Movies 4K Support (Torrent)",
         "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/YTS.cs3",
         "name": "YTS" 
+
+    },
+    {
+        "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+        "fileSize": 38364,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "doGior"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Torrent",
+            "Documentary"
+        ],
+        "version": 3,
+        "internalName": "Torrentio",
+        "description": "Torrents from Torrentio",
+        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/Torrentio.cs3",
+        "name": "Torrentio"
     },
     { 
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xfGH3Q2FVINtuDKrS8FBP8uP2AHbKBxpeQ&s",
