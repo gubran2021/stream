@@ -823,7 +823,7 @@
     {
         "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+        "repositoryUrl": "https://github.com/gubran2021/stream",
         "fileSize": 38364,
         "status": 1,
         "language": "ar",
@@ -839,7 +839,7 @@
         "version": 3,
         "internalName": "Torrentio",
         "description": "Torrents from Torrentio",
-        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/Torrentio.cs3",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/heads/builds/Torrentio.cs3",
         "name": "Torrentio"
     },
     { 
