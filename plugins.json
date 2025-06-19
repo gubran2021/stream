@@ -307,6 +307,25 @@
         "name": "Perverzija"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tube.perverzija.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 15256,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "coxju, megix"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Perverzijax",
+        "description": "Contains all the videos from Perverzija",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/Perverzijax.cs3",
+        "name": "Perverzijax"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=pornhits.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/gubran2021/stream",
