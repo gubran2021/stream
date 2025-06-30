@@ -803,10 +803,10 @@
             "Movie"
         ],
         "version": 3,
-        "internalName": "StreamPlay.en",
+        "internalName": "StreamPlay",
         "description": "Include: Cineclix",
-        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/StreamPlay.en.cs3",
-        "name": "StreamPlay.en"
+        "url": "https://github.com/gubran2021/stream/raw/refs/heads/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
     },
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
