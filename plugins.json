@@ -227,6 +227,28 @@
         "description": "Includes LuxMovies, Rogmovies",
         "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/VegaMovies.cs3",
         "name": "VegaMovies"
+   },
+    {
+        "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 32849,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 65,
+        "internalName": "StreamPlay.en",
+        "description": "StreamPlay.en",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/StreamPlay.en.cs3",
+        "name": "StreamPlay.en"
     },
     {
         "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/World4uFree/icon.png",
