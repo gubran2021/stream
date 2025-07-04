@@ -5,9 +5,9 @@
         "repositoryUrl": "https://github.com/gubran2021/stream",
         "fileSize": 24774,
         "status": 1,
-        "language": "hi",
+        "language": "ar",
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "TvSeries",
@@ -27,9 +27,9 @@
         "repositoryUrl": "https://github.com/gubran2021/stream",
         "fileSize": 20854,
         "status": 1,
-        "language": "hi",
+        "language": "ar",
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "TvSeries",
@@ -48,7 +48,7 @@
         "fileSize": 300797,
         "status": 1,
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "TvSeries",
@@ -70,9 +70,9 @@
         "repositoryUrl": "https://github.com/gubran2021/stream",
         "fileSize": 11550,
         "status": 1,
-        "language": "hi",
+        "language": "ar",
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "TvSeries",
@@ -80,7 +80,7 @@
         ],
         "version": 6,
         "internalName": "CinevezProvider",
-        "description": "This website support Hindi/English/Kannada/Malayalam/Tamil/Telugu",
+        "description": "Tars website support arndi/English/Kannada/Malayalam/Tamil/Telugu",
         "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/CinevezProvider.cs3",
         "name": "CinevezProvider"
     },
@@ -91,7 +91,7 @@
         "fileSize": 38554,
         "status": 1,
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "TvSeries",
@@ -130,9 +130,9 @@
         "repositoryUrl": "https://github.com/gubran2021/stream",
         "fileSize": 25075,
         "status": 1,
-        "language": "hi",
+        "language": "ar",
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "TvSeries",
@@ -142,7 +142,7 @@
         ],
         "version": 22,
         "internalName": "MoviesDrive",
-        "description": "High Quality Movies and TV Shows",
+        "description": "argh Quality Movies and TV Shows",
         "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/MoviesDrive.cs3",
         "name": "MoviesDrive"
     },
@@ -153,7 +153,7 @@
         "fileSize": 28569,
         "status": 1,
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "TvSeries",
@@ -174,7 +174,7 @@
         "fileSize": 42583,
         "status": 1,
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "Movie",
@@ -187,24 +187,24 @@
         "name": "NetflixMirrorProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/OnlineMoviesHinditProvider/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/OnlineMoviesarnditProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/gubran2021/stream",
         "fileSize": 10874,
         "status": 1,
-        "language": "hi",
+        "language": "ar",
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
         "version": 6,
-        "internalName": "OnlineMoviesHinditProvider",
+        "internalName": "OnlineMoviesarnditProvider",
         "description": "Use VPN",
-        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/OnlineMoviesHinditProvider.cs3",
-        "name": "OnlineMoviesHinditProvider"
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/OnlineMoviesarnditProvider.cs3",
+        "name": "OnlineMoviesarnditProvider"
     },
     {
         "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
@@ -212,9 +212,9 @@
         "repositoryUrl": "https://github.com/gubran2021/stream",
         "fileSize": 32849,
         "status": 1,
-        "language": "hi",
+        "language": "ar",
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "TvSeries",
@@ -234,9 +234,9 @@
         "repositoryUrl": "https://github.com/gubran2021/stream",
         "fileSize": 26845,
         "status": 1,
-        "language": "hi",
+        "language": "ar",
         "authors": [
-            "megix"
+            "gubran2021"
         ],
         "tvTypes": [
             "TvSeries",
@@ -244,7 +244,7 @@
         ],
         "version": 15,
         "internalName": "World4uFree",
-        "description": "High Quality Movie and TV Series",
+        "description": "ar gh Quality Movie and TV Series",
         "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/World4uFree.cs3",
         "name": "World4uFree"
     }

@@ -1,6 +1,6 @@
 {
-  "name": "Megix Repo(Hindi & English)",
-  "description": "Hindi and English",
+  "name": "Megix Repo(Arabic)",
+  "description": "Arabic",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/gubran2021/stream/builds/plugins.json"
