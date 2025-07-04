@@ -904,6 +904,28 @@
         "name": "TorraStream"
     },
     {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 25075,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 22,
+        "internalName": "MoviesDrive",
+        "description": "High Quality Movies and TV Shows",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/heads/builds/MoviesDrive.cs3",
+        "name": "MoviesDrive"
+    },
+    {
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xfGH3Q2FVINtuDKrS8FBP8uP2AHbKBxpeQ&s",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/gubran2021/stream",
