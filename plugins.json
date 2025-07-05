@@ -245,6 +245,28 @@
             "Anime"
         ],
         "version": 65,
+        "internalName": "StreamPlay",
+        "description": "StreamPlay",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
+   },
+    {
+        "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 32849,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 65,
         "internalName": "StreamPlay.en",
         "description": "StreamPlay.en",
         "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/StreamPlay.en.cs3",
