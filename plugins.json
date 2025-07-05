@@ -315,6 +315,72 @@
         "description": "MyCimaProvider",
         "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/MyCimaProvidercs3",
         "name": "MyCimaProvider"
+     },
+    {
+        "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 32849,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 65,
+        "internalName": "CimaNowProvider",
+        "description": "CimaNowProvider",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/CimaNowProvider.cs3",
+        "name": "CimaNowProvider"
+     },
+    {
+        "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 32849,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 65,
+        "internalName": "EgyDeadProvider",
+        "description": "EgyDeadProvider",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/EgyDeadProvider.cs3",
+        "name": "EgyDeadProvider"
+    },
+    {
+        "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 32849,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 65,
+        "internalName": "CimaProvider",
+        "description": "CimaProvider",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/CimaProvider.cs3",
+        "name": "CimaProvider"
     },
     {
         "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
