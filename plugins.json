@@ -425,6 +425,44 @@
         "description": "YTS",
         "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/YTS.cs3",
         "name": "YTS"
+  },
+    {
+        "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 32849,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "18": [
+          
+        ],
+        "version": 65,
+        "internalName": "Perverzija",
+        "description": "Perverzija",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/Perverzija.cs3",
+        "name": "Perverzija"
+    },
+    {
+        "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 32849,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "18": [
+            
+        ],
+        "version": 65,
+        "internalName": "Longvideos",
+        "description": "Longvideos",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/Longvideos.cs3",
+        "name": "Longvideos"
     },
     {
         "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/World4uFree/icon.png",
