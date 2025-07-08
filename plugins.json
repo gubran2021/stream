@@ -463,6 +463,25 @@
         "description": "Longvideos",
         "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/Longvideos.cs3",
         "name": "Longvideos"
+     },
+    {
+        "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 32849,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "18": [
+            
+        ],
+        "version": 65,
+        "internalName": "NOXXProvider",
+        "description": "NOXXProvider",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/NOXXProvider.cs3",
+        "name": "NOXXProvider"
     },
     {
         "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/World4uFree/icon.png",
