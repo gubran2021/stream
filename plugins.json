@@ -311,6 +311,28 @@
             "Anime"
         ],
         "version": 65,
+        "internalName": "StreamPlay.مدبلج",
+        "description": "StreamPlay.مدبلج",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/StreamPlay.مدبلج.cs3",
+        "name": "StreamPlay.مدبلج"
+   },
+    {
+        "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/VegaMovies/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 32849,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "gubran2021"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 65,
         "internalName": "ArabSeedProvider",
         "description": "ArabSeedProvider",
         "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/ArabSeedProvider.cs3",
