@@ -51,22 +51,22 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://yallasm.maxsp0orts.com/wp-content/uploads/2024/02/ad-sports-premium-1.webp",SPORTS PREMIUM 1 FHD
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://img.kooora.com/?i=o/h/2/16/ad-sports-premium-1.png",SPORTS PREMIUM 2 FHD
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://yt3.googleusercontent.com/aP8SWX66wRXtOexiV1d-lgOX9diP--VL1iB4U9husk0R2B0E4GvPF2kzhYeaHTtqZbnGv4hHfvw=s900-c-k-c0x00ffffff-no-rj",SPORTS STC TV FHD
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
-https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://yt3.googleusercontent.com/aP8SWX66wRXtOexiV1d-lgOX9diP--VL1iB4U9husk0R2B0E4GvPF2kzhYeaHTtqZbnGv4hHfvw=s900-c-k-c0x00ffffff-no-rj",STARZPLAY SPORTS HD
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
-https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 
 
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://cne-eg.com/uploads/logos/20183142627377.png", ALKASS 1 HD
@@ -178,7 +178,7 @@ https://fastly-live.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd
 #EXTINF:-1 group-title="دراما" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/81/Mbc1logo.png/revision/latest?cb=20240120211822.png", MBC 1
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a  
-https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
 
 #EXTINF:-1 group-title="دراما" tvg-logo="https://alnahdanews.com/uploads/images/2020/06/E85Zu.jpeg", MBC DRAMA
 #EXTVLCOPT:http-drm-scheme=clearkey
@@ -532,12 +532,12 @@ https://fastly-live.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
 #EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/330px-Cartoon_Network_Arabic_logo.png", Cartoon Network Arabic
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=ece7bbc683eb35d1e6b3e32cccbd8fb0:f72bd6ea26e243524d58993b58122313
-https://uselector.cdn.intigral-ott.net/CNA/CNA.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/CNA/CNA.isml/manifest.mpd
 
 #EXTINF:-1 group-title="كرتون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=8442ea8da91e1d0f392515adc680a4f5:4e9b90ac2c26cb08cd34005e08ecf05c
-https://uselector.cdn.intigral-ott.net/TCN/TCN.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/TCN/TCN.isml/manifest.mpd
 
 #EXTINF:-1 group-title="كرتون" tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/Disney-Junior-Logo.png", Disney jr
 #EXTVLCOPT:http-drm-scheme=clearkey
@@ -596,7 +596,7 @@ https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
-https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
 
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="National Geographic WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",National Geographic WILD HD
@@ -604,7 +604,7 @@ https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
-https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
 
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Nat Geo Abu Dhabi HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png",Nat Geo Abu Dhabi HD
@@ -612,28 +612,28 @@ https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5
-https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Animal Planet HD"tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9f/Animal_Planet_%282018-.n.v.%29.png/revision/latest?cb=20181029073336",Animal Planet HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
-https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Discovery Channel HD"tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg",Discovery Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2
-https://uselector.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Discovery Family Channel HD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTeQHC-eOC6kWeDb0kwuiXIKgVx-4IZCnsUFGys7iMHO3LA2slEtnz05kG9hFomzNUKovBoxyBMxoN2YEUYJhKo1vERWZKGKe5biC4kFd21nk92pGm2IkYBYOYa9ObCYg5ecITHd5qfVPE/s1600/Discovery+Family.png",Discovery Family Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
-https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Investigation Discovery (ID) HD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWOHBRSDbFBdBlYFTLsuCK6-4OY0hQ4IidFjmK0JyPsE53Fdd4ODQapTkMsvGgJtXWzymyhTvDtwiM6NUIV6Sa2EtmJb5tCsMdWdRn2BFE_cqWBDGW2T9JbOGQxOx1yot6Tm8S8SrLwAZ8/s1600/ID_HD.png",Investigation Discovery (ID) HD
 #EXTGRP: الوثائقية
@@ -641,7 +641,7 @@ https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188
-https://uselector.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Asharq Documentary HD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asharq_Doc_23.png/revision/latest?cb=20230924082531",Asharq Documentary HD
 #EXTGRP: documentary
@@ -649,7 +649,7 @@ https://uselector.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=be20db73c8ec461007f1d2ea9bd94110:7a2fa6ebc8469ff8823297bceca60ec3
-https://uselector.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="Asharq Documentary HD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asharq_Doc_23.png/revision/latest?cb=20230924082531",Asharq Discovery HD
 #EXTGRP: documentary
@@ -657,7 +657,7 @@ https://uselector.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb
-https://uselector.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd
 
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="TLC HD"tvg-logo="https://logonoid.com/images/tlc-logo.png",TLC HD
@@ -666,7 +666,7 @@ https://uselector.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57
-https://uselector.cdn.intigral-ott.net/TLC/TLC.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/TLC/TLC.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="HGTV HD"tvg-logo="https://logonoid.com/images/hgtv-logo.png",HGTV HD
 #EXTGRP: documentary
@@ -674,7 +674,7 @@ https://uselector.cdn.intigral-ott.net/TLC/TLC.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
-https://uselector.cdn.intigral-ott.net/HGTV/HGTV.isml/manifest.mpd
+https://fastly-live.cdn.intigral-ott.net/HGTV/HGTV.isml/manifest.mpd
 
 #EXTINF:-1 group-title="الوثائقية" tvg-id="HGTV HD"tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi",LOVE NATURE
 #EXTGRP: documentary
