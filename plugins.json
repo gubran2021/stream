@@ -527,7 +527,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=yflix.to/&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "repositoryUrl": "https://github.com/gubran2021/stream",
         "fileSize": 26891,
         "status": 1,
         "language": "en",
@@ -545,7 +545,7 @@
         "version": 1,
         "internalName": "Yflix",
         "description": "Movies & TV Series Etc",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Yflix.cs3",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/Yflix.cs3",
         "name": "Yflix"
     },
     {
