@@ -574,6 +574,32 @@
         "name": "StreamPlay.gubran"  
     },
     {
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/gubran2021/stream",
+        "fileSize": 822343,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "gubran2021",
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "version": 468,
+        "internalName": "Netflix",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/gubran2021/stream/builds/Netflix.cs3",
+        "name": "Netflix"  
+    },
+    {
+        
         "iconUrl": "https://github.com/gubran2021/stream/raw/refs/heads/master/World4uFree/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/gubran2021/stream",
