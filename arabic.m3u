@@ -70,7 +70,7 @@ http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
-https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD" tvg-logo="https://i.imgur.com/X80DQvF.png" group-title="News",Al Jazeera Mubasher (1080p)
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa@SD" tvg-logo="https://i.imgur.com/LMCcIZ2.png" group-title="News",Al Jazeera Mubasher 24 (1080p)
@@ -219,9 +219,9 @@ https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/maste
 #EXTINF:-1 tvg-id="ArabicaTV.lb@SD" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary;Education",Asharq Discovery (1080p)
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="AsharqDocumentary.sa@SD" tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="Documentary",Asharq Documentary (1080p)
-https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="AsharqNews.sa@SD" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="Business;News",Asharq News (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1 tvg-id="AsharqRadio.sa@SD" tvg-logo="https://i.imgur.com/M6K8cD3.jpeg" group-title="Business;News",Asharq Radio (1080p)
@@ -487,7 +487,7 @@ http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-id="NablusTV.ps@SD" tvg-logo="https://i.imgur.com/GoLhaDK.png" group-title="News",Nablus TV (1080p)
 https://htvint.mada.ps/nabluslive/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae@HD" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi HD (1080p)
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="NessmaElJadida.tn@SD" tvg-logo="https://i.imgur.com/66CJtdz.png" group-title="General",Nessma El Jadida
 https://fl1002.bozztv.com/ga-nessmatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa@SD" tvg-logo="https://i.imgur.com/laEk64E.png" group-title="Music",Nidae AlIslam Radio (1080p)
